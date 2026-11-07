@@ -1,0 +1,19 @@
+{
+  "checks": {
+    "five_features_120_each": true,
+    "no_duplicate_feature_observations": true,
+    "exact_original_accession_end_and_USD": true,
+    "quarterly_duration_not_annual": true,
+    "comparison_partition": true,
+    "no_zero_fill_for_unavailable": true,
+    "match_flags_numeric": true,
+    "19_net_margin_zero_nonzero_cases": true,
+    "zero_flags_mean_zero_to_nonzero": true,
+    "quarter_counts_full_release": true,
+    "quarter_counts_modeled_cohort": true,
+    "only_24_modeled_q4": true,
+    "selector_returns_observed_prior_period": true
+  },
+  "all_pass": true,
+  "scope": "Same AI-assisted workflow, not external replication or population data-error validation"
+}

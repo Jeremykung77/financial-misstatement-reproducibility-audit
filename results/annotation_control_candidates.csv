@@ -1,0 +1,15 @@
+report_id,cik,financial_fiscal_quarter,period,stage,benchmark_positive,representative_AAER,annotation_company,annotation_AAER,annotation_url,company_quarter_annotation,exact_representative_AAER_match,any_original_AAER_match
+19114,1467858,2012q2,20120630,development,0,,General Motors Company,AAER-3850,https://www.sec.gov/files/litigation/admin/2017/34-79825.pdf,1,0,0
+21856,943110,2012q3,20120630,development,0,,"Corporate Resource Services, Inc.",AAER-4008,https://www.sec.gov/files/litigation/admin/2018/34-84921.pdf,1,0,0
+26734,878802,2013q1,20130331,development,0,,Quadrant 4 System Corp.,AAER-4097,https://www.sec.gov/files/litigation/admin/2019/34-87157.pdf,1,0,0
+40522,49534,2014q1,20140531,development,0,,"Life Partners Holdings, Inc.",AAER-4042,https://www.sec.gov/files/litigation/admin/2019/34-85703.pdf,1,0,0
+50395,49534,2014q3,20141130,development,0,,"Life Partners Holdings, Inc.",AAER-4042,https://www.sec.gov/files/litigation/admin/2019/34-85703.pdf,1,0,0
+57539,1010552,2015q1,20150331,development,0,,Polycom Inc.,AAER-3734,https://www.sec.gov/enforcement-litigation/litigation-releases/lr-23454,1,0,0
+63816,1376339,2015q2,20150630,development,0,,"MiMedx Group, Inc.",AAER-4225,https://www.sec.gov/files/litigation/admin/2021/34-92378.pdf,1,0,0
+82855,1158863,2016q3,20160930,validation,0,,"WageWorks, Inc.",AAER-4202,https://www.sec.gov/files/litigation/admin/2021/33-10925.pdf,1,0,0
+86361,861459,2017q1,20170331,validation,0,,Granite Construction Inc.,AAER-4327,https://www.sec.gov/files/litigation/admin/2022/34-95611.pdf,1,0,0
+96956,1227654,2017q3,20170930,validation,0,,"Compass Minerals International, Inc.",AAER-4340,https://www.sec.gov/files/litigation/admin/2022/33-11107.pdf,1,0,0
+97461,1376339,2017q3,20170930,validation,0,,"MiMedx Group, Inc.",AAER-4442,https://www.sec.gov/files/litigation/apdocuments/34-98186.pdf,1,0,0
+99546,50104,2018q1,20180331,gap,0,,Andeavor LLC,AAER-4190,https://www.sec.gov/files/litigation/admin/2020/34-90208.pdf,1,0,0
+100256,823277,2018q1,20171130,validation,0,,CHS Inc.,AAER-4331,https://www.sec.gov/enforcement-litigation/litigation-releases/lr-25497,1,0,0
+123494,1227654,2019q3,20190930,evaluation,0,,"Compass Minerals International, Inc.",AAER-4340,https://www.sec.gov/files/litigation/admin/2022/33-11107.pdf,1,0,0

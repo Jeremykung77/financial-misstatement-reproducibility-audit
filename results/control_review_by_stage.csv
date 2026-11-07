@@ -1,0 +1,17 @@
+stage,category,candidate_records
+development,explicit_quarter_support,1
+development,annual_or_scheme_period_only,2
+development,controls_or_transaction_scope,1
+development,outside_cited_scheme_period,3
+validation,explicit_quarter_support,3
+validation,annual_or_scheme_period_only,2
+validation,controls_or_transaction_scope,0
+validation,outside_cited_scheme_period,0
+gap,explicit_quarter_support,0
+gap,annual_or_scheme_period_only,0
+gap,controls_or_transaction_scope,1
+gap,outside_cited_scheme_period,0
+evaluation,explicit_quarter_support,1
+evaluation,annual_or_scheme_period_only,0
+evaluation,controls_or_transaction_scope,0
+evaluation,outside_cited_scheme_period,0

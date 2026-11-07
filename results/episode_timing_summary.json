@@ -1,0 +1,15 @@
+{
+  "evaluation_positives": 93,
+  "representative_source_episode_proxies": 26,
+  "representative_shared_positive_rows": 26,
+  "any_original_shared_positive_rows": 29,
+  "positive_economic_keys_with_multiple_original_proxies": 141,
+  "evaluation_linked_release_before_or_on_source_period": 0,
+  "official_headers_inspected": 26,
+  "representative_header_mismatches": 1,
+  "FirstEnergy_mismatched_original_positive_rows": 10,
+  "pre_October2020_Lordstown_CIK_positive_observations": 4,
+  "source_scores_reproduce_original_AP_ROC": true,
+  "no_model_refit_or_relabeling": true,
+  "scope": "Post hoc fixed-score subsets and targeted documented-event histories; no certified first-discovery dates, causal comparison, full episode identity or historical risk-set reconstruction"
+}

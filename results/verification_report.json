@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "checks": [
+    "All original benchmark input CSVs and all three financial sources match SHA256",
+    "Economic-key feature join and exact period agreement",
+    "Calendar cohort assignment independently reconstructed without trusting split manifest",
+    "Main AP and ROC metrics separately recomputed",
+    "AP independently integrated over score tie groups",
+    "Constant-score review budget uses random tie expectation",
+    "UCI target score identity",
+    "Holdout positive firm and record counts",
+    "Availability stress test has no inherited classification thresholds",
+    "Baseline-skill contrasts use paired evaluation fraction",
+    "Missing category flags and timing strata preserved",
+    "Post hoc narrow-category denominator verified"
+  ],
+  "main_test_records": 2695,
+  "main_test_positives": 93,
+  "independence_scope": "Separate implementation checks within one AI-assisted workflow; no external research team replication"
+}

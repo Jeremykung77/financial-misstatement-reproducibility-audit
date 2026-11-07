@@ -1,0 +1,34 @@
+{
+  "original_source_sha256": "cf29a0a80151c6214cb9ae214787981b0f8f0284664933fc3fba7b495a02a103",
+  "loaded_source_functions": {
+    "safe_divide": [
+      531,
+      534
+    ],
+    "safe_sum": [
+      537,
+      540
+    ],
+    "get_tag_value": [
+      543,
+      545
+    ]
+  },
+  "called_source_helpers": [
+    "safe_divide",
+    "get_tag_value"
+  ],
+  "executed_source_selector_lines": [
+    611,
+    613
+  ],
+  "Amyris_actual_quarterly_income": 1533000.0,
+  "Amyris_actual_modern_revenue": 23194000.0,
+  "Amyris_legacy_Revenues_missing_in_API": true,
+  "source_helper_margin_with_missing_legacy_tag": 0.0,
+  "observed_income_divided_by_modern_revenue": 0.06609467965853238,
+  "source_selector_retains_Sensus_prior_investment": true,
+  "selected_date": 20191231,
+  "selected_value": 7389407.0,
+  "scope": "Actual pinned helper/selector AST replay on observed alternative API inputs; not complete original NUM/PRE/TAG extraction or taxonomy imputation; not proof of the released snapshot production history"
+}

@@ -1,0 +1,5 @@
+category,description,candidate_records
+explicit_quarter_support,Explicit quarterly scope or stated quarterly restatement interval,5
+annual_or_scheme_period_only,Annual or scheme-period support without individual-quarter confirmation,4
+controls_or_transaction_scope,Control or transaction issue without numerical report-misstatement finding,2
+outside_cited_scheme_period,Candidate period outside the cited underlying scheme,3

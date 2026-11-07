@@ -1,0 +1,14 @@
+{
+  "observations": 120,
+  "firms": 53,
+  "matched_statutory_filings": 107,
+  "fact_extract_rows": 885,
+  "ratio_comparisons": 480,
+  "ratio_matches": 353,
+  "ratio_differences": 20,
+  "ratio_unavailable": 107,
+  "changed_fact_contexts": 69,
+  "observations_with_changed_facts": 28,
+  "cash_differences_numerically_reconciled": 19,
+  "limitation": "Post hoc selected-company source audit; no population error-rate inference, model refit, new holdout, or claim of complete point-in-time data."
+}

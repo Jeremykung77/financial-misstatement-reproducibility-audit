@@ -1,0 +1,29 @@
+{
+  "records": 2695,
+  "positives": 93,
+  "calendar_quarter_batches": 12,
+  "batch_sizes": {
+    "2019Q1": 293,
+    "2019Q2": 290,
+    "2019Q3": 273,
+    "2019Q4": 55,
+    "2020Q1": 264,
+    "2020Q2": 308,
+    "2020Q3": 295,
+    "2020Q4": 56,
+    "2021Q1": 264,
+    "2021Q2": 296,
+    "2021Q3": 294,
+    "2021Q4": 7
+  },
+  "constant_AP": 0.03450834879406308,
+  "expected_random_tie_free_AP": 0.03718784066835856,
+  "random_reference_excess_over_constant": 0.0026794918742954824,
+  "exhaustive_N_P_combinations": 45,
+  "exhaustive_label_orderings": 1013,
+  "maximum_exhaustive_error": 3.3306690738754696e-16,
+  "score_file_sha256": "4996adf5dcfdaa277fe6d7e93e1ff18df7f675970f289d2d842aaf9a362395c6",
+  "all_primary_AP_ROC_and_pooled_retrieval_reproduced": true,
+  "no_refit_or_relabeling": true,
+  "scope": "Post hoc fixed scores; analytical random ordering reference, not a permutation test; period batches are not filing-time deployment."
+}

@@ -1,0 +1,155 @@
+{
+  "seed": 20261106,
+  "source_split_audit": {
+    "provided_train_n": 11364,
+    "provided_test_n": 3507,
+    "provided_train_positives": 666,
+    "provided_test_positives": 176,
+    "provided_train_max_period": 20180630,
+    "provided_test_min_period": 20170930,
+    "provided_shared_periods": 10,
+    "provided_shared_firms": 1740,
+    "provided_shared_reports": 0,
+    "source_unique_economic_keys": 14657,
+    "source_duplicate_economic_rows": 214,
+    "source_conflicting_labels": 0,
+    "provided_shared_economic_keys": 0,
+    "test_unseen_firm_n": 945,
+    "test_unseen_firm_positives": 21,
+    "test_seen_firm_n": 1750,
+    "refit_positive_labels_unavailable_at_2018_01_01": 355,
+    "refit_positives": 475,
+    "availability_train_n": 10513,
+    "availability_train_positives": 120
+  },
+  "sample_flow": [
+    {
+      "split": "development",
+      "n": 7799,
+      "positive": 342,
+      "firms": 4742,
+      "positive_firms": 81,
+      "min_date": "2009-06-30",
+      "max_date": "2015-12-31",
+      "positive_rate": 0.043851775868701114
+    },
+    {
+      "split": "validation",
+      "n": 3069,
+      "positive": 133,
+      "firms": 2416,
+      "positive_firms": 39,
+      "min_date": "2016-01-31",
+      "max_date": "2017-12-31",
+      "positive_rate": 0.0433365917236885
+    },
+    {
+      "split": "gap",
+      "n": 1094,
+      "positive": 60,
+      "firms": 999,
+      "positive_firms": 28,
+      "min_date": "2018-01-31",
+      "max_date": "2018-12-31",
+      "positive_rate": 0.054844606946983544
+    },
+    {
+      "split": "test",
+      "n": 2695,
+      "positive": 93,
+      "firms": 2161,
+      "positive_firms": 26,
+      "min_date": "2019-01-31",
+      "max_date": "2021-12-31",
+      "positive_rate": 0.03450834879406308
+    }
+  ],
+  "selected": {
+    "logit": {
+      "parameter": 0.1,
+      "validation_AP": 0.0851911676097666
+    },
+    "logit_balanced": {
+      "parameter": 0.1,
+      "validation_AP": 0.07867170676352978
+    },
+    "forest": {
+      "parameter": 8,
+      "validation_AP": 0.12701099971090882
+    }
+  },
+  "AAER": {
+    "rows": 570,
+    "unique_CIK": 534,
+    "unique_AAER": 553,
+    "missing_id": 26,
+    "fsf_flag_1": 478,
+    "corruption_flag_1": 94,
+    "asset_misappropriation_flag_1": 29,
+    "both_timing_certain": 341,
+    "missing_release": 0,
+    "missing_start": 0,
+    "missing_end": 0,
+    "start_after_end": 0,
+    "release_before_end": 2,
+    "lag_n": 570,
+    "lag_median_years": 3.245722108145106,
+    "lag_q25": 2.210814510609172,
+    "lag_q75": 4.45037645448323,
+    "lag_gt1": 539,
+    "lag_gt2": 458,
+    "lag_gt3": 325,
+    "release_min": "1997-11-17",
+    "release_max": "2024-12-19",
+    "missing_category_flags": {
+      "fsf": 74,
+      "amis": 453,
+      "corruption": 399
+    }
+  },
+  "UCI": {
+    "rows": 776,
+    "positive": 305,
+    "exact_duplicate_rows": 13,
+    "threshold_mismatch": 0,
+    "audit_formula_max_error": 1.1368683772161603e-13,
+    "missing_Money_Value": 1
+  },
+  "source_files_verified": [
+    "hf_train.csv",
+    "hf_test.csv",
+    "hf_financials.csv",
+    "aaer_mark5.csv",
+    "audit_risk.csv",
+    "trial.csv"
+  ],
+  "review_revision": "v2 post hoc audit",
+  "positive_firm_concentration": {
+    "firms": 26,
+    "largest_firm_positives": 8,
+    "top3_firm_positives": 22
+  },
+  "features": [
+    "ratio_GrossProfitMargin",
+    "ratio_OperatingMargin",
+    "ratio_NetProfitMargin",
+    "ratio_ReturnOnAssets",
+    "ratio_CurrentRatio",
+    "ratio_QuickRatio",
+    "ratio_CashRatio",
+    "ratio_WorkingCapitalToTotalAssets",
+    "ratio_DebtToAssetsRatio",
+    "ratio_TotalLiabilitiesToAssets",
+    "ratio_AssetTurnover",
+    "ratio_CashToTotalAsset"
+  ],
+  "bootstrap_replicates": 1000,
+  "python": "3.12.14",
+  "packages": {
+    "numpy": "2.5.4",
+    "pandas": "2.2.3",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.7.2",
+    "matplotlib": "3.10.7"
+  }
+}

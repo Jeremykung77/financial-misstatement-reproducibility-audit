@@ -1,0 +1,48 @@
+{
+  "comparisons": 600,
+  "summary": [
+    {
+      "feature": "ratio_ReturnOnAssets",
+      "requested": 120,
+      "match": 100,
+      "different": 3,
+      "unavailable": 17,
+      "source_zero_nonzero_reconstruction": 0
+    },
+    {
+      "feature": "ratio_QuickRatio",
+      "requested": 120,
+      "match": 69,
+      "different": 0,
+      "unavailable": 51,
+      "source_zero_nonzero_reconstruction": 0
+    },
+    {
+      "feature": "ratio_GrossProfitMargin",
+      "requested": 120,
+      "match": 44,
+      "different": 6,
+      "unavailable": 70,
+      "source_zero_nonzero_reconstruction": 4
+    },
+    {
+      "feature": "ratio_OperatingMargin",
+      "requested": 120,
+      "match": 54,
+      "different": 17,
+      "unavailable": 49,
+      "source_zero_nonzero_reconstruction": 13
+    },
+    {
+      "feature": "ratio_NetProfitMargin",
+      "requested": 120,
+      "match": 55,
+      "different": 22,
+      "unavailable": 43,
+      "source_zero_nonzero_reconstruction": 19
+    }
+  ],
+  "selector_prior_period_retained": true,
+  "all_matched_flow_contexts": "60-120 inclusive days in original accession with common start/end",
+  "scope": "Post hoc measurement audit; no new model result or population data-error estimate"
+}

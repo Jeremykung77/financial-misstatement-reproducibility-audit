@@ -1,0 +1,26 @@
+{
+  "all_pass": true,
+  "checks": {
+    "all_600_comparisons_accounted_for": true,
+    "all_230_unavailable_reproduced": true,
+    "all_370_computable_values_reproduced": true,
+    "all_120_reports_have_eight_component_records": true,
+    "exact_date_unmatched_requests_65": true
+  },
+  "exclusive_reason_counts": {
+    "computable": 370,
+    "ambiguous_eligible_component": 21,
+    "absent_current_accession_USD_fact": 136,
+    "unmatched_report_date": 65,
+    "no_eligible_context_or_duration": 8
+  },
+  "priority_rule": [
+    "unmatched_report_date",
+    "absent_current_accession_USD_fact",
+    "no_eligible_context_or_duration",
+    "ambiguous_eligible_component",
+    "incompatible_flow_start",
+    "zero_denominator"
+  ],
+  "scope": "Descriptive classification of the selected audit; multiple component problems may coexist. Reasons describe retained API context coverage, not population errors or complete filing absence."
+}

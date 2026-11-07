@@ -1,0 +1,13 @@
+# Analysis design recorded before fitting predictive models
+Date: 2026-11-06 Australia/Brisbane. This is an exploratory design, not preregistration.
+Research question: Which claims about corporate financial fraud can three publicly accessible sources actually support?
+Primary source: Hugging Face author dataset revision b4c976c8662bc7f24568d71f30a41eeccb677f85. Join report_id to financial table row index, assert CIK/year/quarter agreement. No enforcement metadata or total future report counts in predictors. No NLP/LLM experiment.
+Primary split by actual period: <=2015-12-31 development training; 2016-2017 validation; discard 2018 as temporal gap; 2019-2021 final holdout. Refit selected models on <=2017. Report-period split is not filing-date split. No claim of point-in-time deployment.
+Predictors: twelve named current-period financial ratios; vendor imputation and as-filed provenance remain unresolved. No time difference, M-score, future sequence, identity, industry, year or coverage predictors. Signed log transform, training median imputation and scaling for logistic; same preprocessing for forest.
+Compare prevalence score, unweighted logistic, balanced logistic and balanced random forest. Logistic C in [0.1,1,10]; forest depth in [4,8], 300 trees, minimum leaf 10. Select by validation AP. Seed 20261106. No SMOTE or holdout rebalancing.
+Metrics: noninterpolated AP, ROC-AUC, precision and recall at top 1% and 5%, F1-threshold selected on validation, Brier descriptive only; annual breakdown and company-disjoint subset. Paired firm-cluster bootstrap 1000 replicates for AP/ROC and AP differences; descriptive intervals conditional on fitted model and sampled controls.
+Sensitivity: remove positive training observations whose associated AAER is missing or later than 2018-01-01; refit with selected settings. This does not reconstruct the historical universe or remove all look-ahead.
+Additional actual analyses: UCI audit score/label algebra and duplicates; CC BY AAER label timing/uncertainty audit. No fraud prevalence estimate from positive-only labels or sampled controls.
+
+## Integrity amendment before any predictive model fit succeeded
+The report_id join failed CIK agreement (only 3/14871 matches). The correct financial key is CIK, fiscal year and fiscal quarter, unique in the financial table. All 14871 records match this key and exact period. Prepared split has 214 repeated economic observations, all positive; no label conflicts. Collapse those before splitting and retain earliest associated release for the partial availability stress test. This is a documented correction to the original join hypothesis, not an outcome-driven selection.

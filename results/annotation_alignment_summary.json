@@ -1,0 +1,23 @@
+{
+  "annotation_rows": 1451,
+  "unique_company_quarters": 1451,
+  "annotation_release_company_pairs": 256,
+  "benchmark_records": 14657,
+  "benchmark_positives": 628,
+  "evaluation_records": 2695,
+  "evaluation_positives": 93,
+  "evaluation_positive_company_quarter_matches": 34,
+  "evaluation_positive_representative_release_matches": 26,
+  "evaluation_positive_any_original_release_matches": 31,
+  "control_annotation_candidates_all_stages": 14,
+  "control_annotation_candidates_evaluation": 1,
+  "archive_json_records": 3210,
+  "archive_min_numeric_AAER": 987,
+  "archive_max_numeric_AAER": 4477,
+  "evaluation_representative_links_present_in_archive": 13,
+  "prompt_year_expansion_observed": true,
+  "prompt_excludes_pure_disclosure": true,
+  "preprocessing_empty_categories_excluded": true,
+  "no_fit_relabel_or_metric_change": true,
+  "scope": "Cross-file annotation compatibility, not validated population label accuracy; exact production lineage and all case-quarter adjudication remain unresolved"
+}

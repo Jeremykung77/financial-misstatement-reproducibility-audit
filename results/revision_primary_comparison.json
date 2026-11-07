@@ -1,0 +1,19 @@
+{
+  "primary_ranking_metrics_unchanged": true,
+  "max_absolute_change": 0.0,
+  "models": [
+    "forest",
+    "logit",
+    "logit_balanced",
+    "prevalence"
+  ],
+  "metrics": [
+    "AP",
+    "ROC_AUC",
+    "P1",
+    "R1",
+    "P5",
+    "R5"
+  ],
+  "comparison_reference": "Original delivered package retained separately as AI_Fraud_Research_Complete_Package.zip"
+}

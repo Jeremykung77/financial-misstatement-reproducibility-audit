@@ -1,0 +1,601 @@
+report_id,cik,period,selection_group,feature,original_accession_ratio,processed_source,status,source_zero_with_nonzero_reconstruction,unavailable_reason
+813,1750,20200229,all_positive_evaluation,ratio_ReturnOnAssets,0.0012575865274208542,-0.0331346711137842,different,0,
+813,1750,20200229,all_positive_evaluation,ratio_QuickRatio,1.1055017514939214,1.1055017514939214,match,0,
+813,1750,20200229,all_positive_evaluation,ratio_GrossProfitMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+813,1750,20200229,all_positive_evaluation,ratio_OperatingMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+813,1750,20200229,all_positive_evaluation,ratio_NetProfitMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+791,10795,20191231,all_positive_evaluation,ratio_ReturnOnAssets,0.005351093316907915,0.0053510933169079,match,0,
+791,10795,20191231,all_positive_evaluation,ratio_QuickRatio,0.5468331846565566,0.5468331846565566,match,0,
+791,10795,20191231,all_positive_evaluation,ratio_GrossProfitMargin,,0.4681656804733727,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+791,10795,20191231,all_positive_evaluation,ratio_OperatingMargin,0.11857988165680473,0.1185798816568047,match,0,
+791,10795,20191231,all_positive_evaluation,ratio_NetProfitMargin,0.06579881656804734,0.0657988165680473,match,0,
+743,837852,20190930,all_positive_evaluation,ratio_ReturnOnAssets,-0.08322141950753757,-0.0832214195075375,match,0,
+743,837852,20190930,all_positive_evaluation,ratio_QuickRatio,,0.5036487982215149,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+743,837852,20190930,all_positive_evaluation,ratio_GrossProfitMargin,0.9215901072594235,0.0,different,1,
+743,837852,20190930,all_positive_evaluation,ratio_OperatingMargin,-3.0297429833520746,0.0,different,1,
+743,837852,20190930,all_positive_evaluation,ratio_NetProfitMargin,-4.417924148352445,0.0,different,1,
+827,1341766,20210331,all_positive_evaluation,ratio_ReturnOnAssets,0.003950824682620366,0.0039508246826203,match,0,
+827,1341766,20210331,all_positive_evaluation,ratio_QuickRatio,1.9492906523752958,1.949290652375296,match,0,
+827,1341766,20210331,all_positive_evaluation,ratio_GrossProfitMargin,0.4112949888416838,0.4112949888416838,match,0,
+827,1341766,20210331,all_positive_evaluation,ratio_OperatingMargin,0.01625618001394587,0.0162561800139458,match,0,
+827,1341766,20210331,all_positive_evaluation,ratio_NetProfitMargin,0.011700318092105309,0.0117003180921053,match,0,
+671,1692415,20210331,all_positive_evaluation,ratio_ReturnOnAssets,0.0973751873652342,0.0973751873652342,match,0,
+671,1692415,20210331,all_positive_evaluation,ratio_QuickRatio,16.9357298047481,16.9357298047481,match,0,
+671,1692415,20210331,all_positive_evaluation,ratio_GrossProfitMargin,0.8365741447504338,0.8365741447504338,match,0,
+671,1692415,20210331,all_positive_evaluation,ratio_OperatingMargin,0.5161058786745555,0.5161058786745555,match,0,
+671,1692415,20210331,all_positive_evaluation,ratio_NetProfitMargin,0.39446023072725583,0.3944602307272558,match,0,
+794,1483510,20210430,all_positive_evaluation,ratio_ReturnOnAssets,,-0.0325035418794815,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+794,1483510,20210430,all_positive_evaluation,ratio_QuickRatio,,0.394361761053649,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+794,1483510,20210430,all_positive_evaluation,ratio_GrossProfitMargin,,0.2279159761568028,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+794,1483510,20210430,all_positive_evaluation,ratio_OperatingMargin,,-0.1172955729279642,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+794,1483510,20210430,all_positive_evaluation,ratio_NetProfitMargin,,-0.1322424000532162,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+762,1031296,20210331,all_positive_evaluation,ratio_ReturnOnAssets,0.0075934447038556565,0.0075934447038556,match,0,
+762,1031296,20210331,all_positive_evaluation,ratio_QuickRatio,0.6239186851211073,0.6239186851211073,match,0,
+762,1031296,20210331,all_positive_evaluation,ratio_GrossProfitMargin,,0.9567131327953045,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+762,1031296,20210331,all_positive_evaluation,ratio_OperatingMargin,,0.2050623624358033,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+762,1031296,20210331,all_positive_evaluation,ratio_NetProfitMargin,,0.1228906823184152,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+708,1342287,20210331,all_positive_evaluation,ratio_ReturnOnAssets,,0.0141829495260939,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+708,1342287,20210331,all_positive_evaluation,ratio_QuickRatio,,0.0199870015388982,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+708,1342287,20210331,all_positive_evaluation,ratio_GrossProfitMargin,,0.7565828944737018,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+708,1342287,20210331,all_positive_evaluation,ratio_OperatingMargin,,0.1678888074128391,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+708,1342287,20210331,all_positive_evaluation,ratio_NetProfitMargin,,0.1242917138857409,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+729,1759546,20210331,all_positive_evaluation,ratio_ReturnOnAssets,-0.16071607353269618,-0.1607160735326961,match,0,
+729,1759546,20210331,all_positive_evaluation,ratio_QuickRatio,,9.14953284976568,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+729,1759546,20210331,all_positive_evaluation,ratio_GrossProfitMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+729,1759546,20210331,all_positive_evaluation,ratio_OperatingMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+729,1759546,20210331,all_positive_evaluation,ratio_NetProfitMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+719,854800,20210331,all_positive_evaluation,ratio_ReturnOnAssets,-0.02420444372100594,-0.0242044437210059,match,0,
+719,854800,20210331,all_positive_evaluation,ratio_QuickRatio,11.52699272296497,11.52699272296497,match,0,
+719,854800,20210331,all_positive_evaluation,ratio_GrossProfitMargin,0.2174594292109681,0.2174594292109681,match,0,
+719,854800,20210331,all_positive_evaluation,ratio_OperatingMargin,-0.5353105763850028,-0.5353105763850028,match,0,
+719,854800,20210331,all_positive_evaluation,ratio_NetProfitMargin,-0.49927252378287634,-0.4992725237828763,match,0,
+141880,1530163,20210331,hashed_nonlinked_control,ratio_ReturnOnAssets,-4.2052980132450335,-4.2052980132450335,match,0,
+141880,1530163,20210331,hashed_nonlinked_control,ratio_QuickRatio,0.00974817221770918,0.0097481722177091,match,0,
+141880,1530163,20210331,hashed_nonlinked_control,ratio_GrossProfitMargin,0.5066666666666667,0.5066666666666667,match,0,
+141880,1530163,20210331,hashed_nonlinked_control,ratio_OperatingMargin,-3.84,-3.84,match,0,
+141880,1530163,20210331,hashed_nonlinked_control,ratio_NetProfitMargin,-8.466666666666667,-8.466666666666667,match,0,
+823,1422892,20210331,all_positive_evaluation,ratio_ReturnOnAssets,-0.06400721107328147,-0.0640072110732814,match,0,
+823,1422892,20210331,all_positive_evaluation,ratio_QuickRatio,,8.868461193199481,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+823,1422892,20210331,all_positive_evaluation,ratio_GrossProfitMargin,-0.1528838830290581,-0.1528838830290581,match,0,
+823,1422892,20210331,all_positive_evaluation,ratio_OperatingMargin,-3.1466857743544336,-3.1466857743544336,match,0,
+823,1422892,20210331,all_positive_evaluation,ratio_NetProfitMargin,-3.652206161599842,-3.652206161599842,match,0,
+139562,106535,20210331,hashed_nonlinked_control,ratio_ReturnOnAssets,0.04035794713760815,0.0403579471376081,match,0,
+139562,106535,20210331,hashed_nonlinked_control,ratio_QuickRatio,1.8748663101604277,1.874866310160428,match,0,
+139562,106535,20210331,hashed_nonlinked_control,ratio_GrossProfitMargin,0.42936951316839583,0.4293695131683958,match,0,
+139562,106535,20210331,hashed_nonlinked_control,ratio_OperatingMargin,0.38148443735035914,0.3814844373503591,match,0,
+139562,106535,20210331,hashed_nonlinked_control,ratio_NetProfitMargin,0.27174780526735837,0.2717478052673583,match,0,
+824,1341766,20200331,all_positive_evaluation,ratio_ReturnOnAssets,0.005752267661852272,0.0057522676618522,match,0,
+824,1341766,20200331,all_positive_evaluation,ratio_QuickRatio,1.2185906481615398,1.2185906481615398,match,0,
+824,1341766,20200331,all_positive_evaluation,ratio_GrossProfitMargin,0.4613175166309862,0.4613175166309862,match,0,
+824,1341766,20200331,all_positive_evaluation,ratio_OperatingMargin,0.04428908696429495,0.0442890869642949,match,0,
+824,1341766,20200331,all_positive_evaluation,ratio_NetProfitMargin,0.019373892159021806,0.0193738921590218,match,0,
+669,1692415,20200331,all_positive_evaluation,ratio_ReturnOnAssets,-0.052010510957800946,-0.0520105109578009,match,0,
+669,1692415,20200331,all_positive_evaluation,ratio_QuickRatio,15.857911866542873,15.857911866542873,match,0,
+669,1692415,20200331,all_positive_evaluation,ratio_GrossProfitMargin,0.6889045596850687,0.6889045596850687,match,0,
+669,1692415,20200331,all_positive_evaluation,ratio_OperatingMargin,-0.698695147908207,-0.698695147908207,match,0,
+669,1692415,20200331,all_positive_evaluation,ratio_NetProfitMargin,-0.6878745492493517,-0.6878745492493517,match,0,
+727,1759546,20200331,all_positive_evaluation,ratio_ReturnOnAssets,0.0020096953323991834,0.0020096953323991,match,0,
+727,1759546,20200331,all_positive_evaluation,ratio_QuickRatio,,3.4431745755387184,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+727,1759546,20200331,all_positive_evaluation,ratio_GrossProfitMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+727,1759546,20200331,all_positive_evaluation,ratio_OperatingMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+727,1759546,20200331,all_positive_evaluation,ratio_NetProfitMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+772,1739104,20200331,all_positive_evaluation,ratio_ReturnOnAssets,-0.005047701291224607,-0.0050477012912246,match,0,
+772,1739104,20200331,all_positive_evaluation,ratio_QuickRatio,2.9704593639575974,2.9704593639575974,match,0,
+772,1739104,20200331,all_positive_evaluation,ratio_GrossProfitMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+772,1739104,20200331,all_positive_evaluation,ratio_OperatingMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+772,1739104,20200331,all_positive_evaluation,ratio_NetProfitMargin,-0.07465409761289342,0.0,different,1,
+758,1031296,20200331,all_positive_evaluation,ratio_ReturnOnAssets,0.0017581373247802328,0.0017581373247802,match,0,
+758,1031296,20200331,all_positive_evaluation,ratio_QuickRatio,0.4647011090073032,0.4647011090073032,match,0,
+758,1031296,20200331,all_positive_evaluation,ratio_GrossProfitMargin,,0.9638242894056848,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+758,1031296,20200331,all_positive_evaluation,ratio_OperatingMargin,,0.1963824289405684,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+758,1031296,20200331,all_positive_evaluation,ratio_NetProfitMargin,,0.0273163528977482,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+704,1315255,20200331,all_positive_evaluation,ratio_ReturnOnAssets,-0.017577548005908418,-0.0175775480059084,match,0,
+704,1315255,20200331,all_positive_evaluation,ratio_QuickRatio,,0.597668668315083,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+704,1315255,20200331,all_positive_evaluation,ratio_GrossProfitMargin,,0.4403108076289145,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+704,1315255,20200331,all_positive_evaluation,ratio_OperatingMargin,,0.0216623498940428,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+704,1315255,20200331,all_positive_evaluation,ratio_NetProfitMargin,,-0.1961384506710619,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+735,1680873,20200331,all_positive_evaluation,ratio_ReturnOnAssets,-0.6518524263881823,-0.6518524263881823,match,0,
+735,1680873,20200331,all_positive_evaluation,ratio_QuickRatio,0.47944086926581325,0.4794408692658132,match,0,
+735,1680873,20200331,all_positive_evaluation,ratio_GrossProfitMargin,0.16481510339485253,0.1648151033948525,match,0,
+735,1680873,20200331,all_positive_evaluation,ratio_OperatingMargin,-0.0024547201993937134,-0.0024547201993937,match,0,
+735,1680873,20200331,all_positive_evaluation,ratio_NetProfitMargin,-1.933319069667711,-1.933319069667711,match,0,
+130873,885307,20200229,hashed_nonlinked_control,ratio_ReturnOnAssets,-0.009768005524638903,-0.0097680055246389,match,0,
+130873,885307,20200229,hashed_nonlinked_control,ratio_QuickRatio,5.698689172988913,5.698689172988913,match,0,
+130873,885307,20200229,hashed_nonlinked_control,ratio_GrossProfitMargin,0.2630902919957118,0.2630902919957118,match,0,
+130873,885307,20200229,hashed_nonlinked_control,ratio_OperatingMargin,,-0.0213882919634365,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+130873,885307,20200229,hashed_nonlinked_control,ratio_NetProfitMargin,-0.02286324705025383,-0.0228632470502538,match,0,
+713,854800,20200331,all_positive_evaluation,ratio_ReturnOnAssets,-0.32739287144573487,-0.3273928714457348,match,0,
+713,854800,20200331,all_positive_evaluation,ratio_QuickRatio,,7.412962962962963,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+713,854800,20200331,all_positive_evaluation,ratio_GrossProfitMargin,,-0.7735849056603774,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+713,854800,20200331,all_positive_evaluation,ratio_OperatingMargin,,-1.6142557651991614,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+713,854800,20200331,all_positive_evaluation,ratio_NetProfitMargin,,-3.4276729559748427,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+129263,1641640,20200331,hashed_nonlinked_control,ratio_ReturnOnAssets,-0.5672650114628555,-0.5672650114628555,match,0,
+129263,1641640,20200331,hashed_nonlinked_control,ratio_QuickRatio,2.8380705567630833,2.838070556763084,match,0,
+129263,1641640,20200331,hashed_nonlinked_control,ratio_GrossProfitMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+129263,1641640,20200331,hashed_nonlinked_control,ratio_OperatingMargin,-25.58681875792142,0.0,different,1,
+129263,1641640,20200331,hashed_nonlinked_control,ratio_NetProfitMargin,-29.479087452471482,0.0,different,1,
+129417,1687187,20200331,hashed_nonlinked_control,ratio_ReturnOnAssets,0.008019324856228464,0.0080193248562284,match,0,
+129417,1687187,20200331,hashed_nonlinked_control,ratio_QuickRatio,1.2104565126343712,1.2104565126343712,match,0,
+129417,1687187,20200331,hashed_nonlinked_control,ratio_GrossProfitMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+129417,1687187,20200331,hashed_nonlinked_control,ratio_OperatingMargin,0.02720877548587099,0.0,different,1,
+129417,1687187,20200331,hashed_nonlinked_control,ratio_NetProfitMargin,0.04678669369261953,0.0,different,1,
+127965,1263762,20200331,hashed_nonlinked_control,ratio_ReturnOnAssets,0.0008737675050297034,0.0008737675050297,match,0,
+127965,1263762,20200331,hashed_nonlinked_control,ratio_QuickRatio,,2.7787,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+127965,1263762,20200331,hashed_nonlinked_control,ratio_GrossProfitMargin,,1.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+127965,1263762,20200331,hashed_nonlinked_control,ratio_OperatingMargin,,0.7880708831580464,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+127965,1263762,20200331,hashed_nonlinked_control,ratio_NetProfitMargin,,0.079527445613024,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+658,93556,20200331,all_positive_evaluation,ratio_ReturnOnAssets,,0.0058153241650294,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+658,93556,20200331,all_positive_evaluation,ratio_QuickRatio,,0.5885146081224513,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+658,93556,20200331,all_positive_evaluation,ratio_GrossProfitMargin,,0.3269316801942864,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+658,93556,20200331,all_positive_evaluation,ratio_OperatingMargin,,0.0710679363456253,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+658,93556,20200331,all_positive_evaluation,ratio_NetProfitMargin,,0.042564069789736,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+776,1090727,20200331,all_positive_evaluation,ratio_ReturnOnAssets,0.01584694966746038,0.0158469496674603,match,0,
+776,1090727,20200331,all_positive_evaluation,ratio_QuickRatio,,1.223589549413101,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+776,1090727,20200331,all_positive_evaluation,ratio_GrossProfitMargin,,0.9365677848627668,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+776,1090727,20200331,all_positive_evaluation,ratio_OperatingMargin,0.0594399778209038,0.0594399778209038,match,0,
+776,1090727,20200331,all_positive_evaluation,ratio_NetProfitMargin,0.053507069586914334,0.0535070695869143,match,0,
+809,1750,20190228,all_positive_evaluation,ratio_ReturnOnAssets,-0.02418364047849984,-0.3648884578079534,different,0,
+809,1750,20190228,all_positive_evaluation,ratio_QuickRatio,1.3312013348164626,1.3312013348164626,match,0,
+809,1750,20190228,all_positive_evaluation,ratio_GrossProfitMargin,0.16109537299339,0.0,different,1,
+809,1750,20190228,all_positive_evaluation,ratio_OperatingMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+809,1750,20190228,all_positive_evaluation,ratio_NetProfitMargin,-0.07063267233238904,0.0,different,1,
+765,315189,20190131,all_positive_evaluation,ratio_ReturnOnAssets,,0.0071297602054972,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+765,315189,20190131,all_positive_evaluation,ratio_QuickRatio,,0.1200924781970726,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+765,315189,20190131,all_positive_evaluation,ratio_GrossProfitMargin,,1.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+765,315189,20190131,all_positive_evaluation,ratio_OperatingMargin,,0.8547271907410191,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+765,315189,20190131,all_positive_evaluation,ratio_NetProfitMargin,,0.0624405030312139,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+768,315189,20210131,all_positive_evaluation,ratio_ReturnOnAssets,0.016216216216216217,0.0162162162162162,match,0,
+768,315189,20210131,all_positive_evaluation,ratio_QuickRatio,,0.2478462086151655,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+768,315189,20210131,all_positive_evaluation,ratio_GrossProfitMargin,,1.000548726953468,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+768,315189,20210131,all_positive_evaluation,ratio_OperatingMargin,0.17976294995610184,0.8705004389815628,different,0,
+768,315189,20210131,all_positive_evaluation,ratio_NetProfitMargin,0.13432835820895522,0.1343283582089552,match,0,
+146617,1617242,20201231,hashed_nonlinked_control,ratio_ReturnOnAssets,0.0023105175856590857,0.002310517585659,match,0,
+146617,1617242,20201231,hashed_nonlinked_control,ratio_QuickRatio,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+146617,1617242,20201231,hashed_nonlinked_control,ratio_GrossProfitMargin,,1.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+146617,1617242,20201231,hashed_nonlinked_control,ratio_OperatingMargin,,0.9377170031758568,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+146617,1617242,20201231,hashed_nonlinked_control,ratio_NetProfitMargin,,0.2788830198614471,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+822,1422892,20201231,all_positive_evaluation,ratio_ReturnOnAssets,-0.10343925615804203,-0.103439256158042,match,0,
+822,1422892,20201231,all_positive_evaluation,ratio_QuickRatio,,1.1838917317392506,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+822,1422892,20201231,all_positive_evaluation,ratio_GrossProfitMargin,0.10399694338901742,0.1039969433890174,match,0,
+822,1422892,20201231,all_positive_evaluation,ratio_OperatingMargin,-0.6239678631317527,-0.6239678631317527,match,0,
+822,1422892,20201231,all_positive_evaluation,ratio_NetProfitMargin,-0.5852767931056441,-0.5852767931056441,match,0,
+692,66740,20190331,all_positive_evaluation,ratio_ReturnOnAssets,0.022764435360245274,0.0227644353602452,match,0,
+692,66740,20190331,all_positive_evaluation,ratio_QuickRatio,1.3804912280701755,1.3804912280701755,match,0,
+692,66740,20190331,all_positive_evaluation,ratio_GrossProfitMargin,,0.4518631565560219,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+692,66740,20190331,all_positive_evaluation,ratio_OperatingMargin,0.14447411929289075,0.1444741192928907,match,0,
+692,66740,20190331,all_positive_evaluation,ratio_NetProfitMargin,0.11331552842426555,0.1133155284242655,match,0,
+542,10456,20190331,all_positive_evaluation,ratio_ReturnOnAssets,0.02122324159021407,0.021223241590214,match,0,
+542,10456,20190331,all_positive_evaluation,ratio_QuickRatio,1.3032762248271716,1.3032762248271716,match,0,
+542,10456,20190331,all_positive_evaluation,ratio_GrossProfitMargin,0.41033434650455924,32.72727272727273,different,0,
+542,10456,20190331,all_positive_evaluation,ratio_OperatingMargin,0.1458966565349544,11.636363636363637,different,0,
+542,10456,20190331,all_positive_evaluation,ratio_NetProfitMargin,0.13183890577507598,10.515151515151516,different,0,
+789,10795,20190331,all_positive_evaluation,ratio_ReturnOnAssets,0.00038024259477546676,0.0003802425947754,match,0,
+789,10795,20190331,all_positive_evaluation,ratio_QuickRatio,0.5932751828925155,0.5932751828925155,match,0,
+789,10795,20190331,all_positive_evaluation,ratio_GrossProfitMargin,,0.4705601907032181,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+789,10795,20190331,all_positive_evaluation,ratio_OperatingMargin,0.032419547079856975,0.0324195470798569,match,0,
+789,10795,20190331,all_positive_evaluation,ratio_NetProfitMargin,0.004767580452920143,0.0047675804529201,match,0,
+113531,811532,20190331,hashed_nonlinked_control,ratio_ReturnOnAssets,-0.03923759771532542,-0.0392375977153254,match,0,
+113531,811532,20190331,hashed_nonlinked_control,ratio_QuickRatio,0.48581305939581004,0.48581305939581,match,0,
+113531,811532,20190331,hashed_nonlinked_control,ratio_GrossProfitMargin,,0.8857966167490332,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+113531,811532,20190331,hashed_nonlinked_control,ratio_OperatingMargin,-1.268181614584111,-1.268181614584111,match,0,
+113531,811532,20190331,hashed_nonlinked_control,ratio_NetProfitMargin,-1.249279603445959,-1.249279603445959,match,0,
+113987,931336,20190331,hashed_nonlinked_control,ratio_ReturnOnAssets,-0.02521148098104246,-0.025315071858494,different,0,
+113987,931336,20190331,hashed_nonlinked_control,ratio_QuickRatio,0.8410214544027105,0.8410214544027105,match,0,
+113987,931336,20190331,hashed_nonlinked_control,ratio_GrossProfitMargin,0.20816860992940983,0.2081686099294098,match,0,
+113987,931336,20190331,hashed_nonlinked_control,ratio_OperatingMargin,-0.024824638499660805,-0.0248246384996608,match,0,
+113987,931336,20190331,hashed_nonlinked_control,ratio_NetProfitMargin,-0.03429477218321587,-0.0344356851880938,different,0,
+766,315189,20190430,all_positive_evaluation,ratio_ReturnOnAssets,,0.0156043756599788,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+766,315189,20190430,all_positive_evaluation,ratio_QuickRatio,,0.1087894723693414,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+766,315189,20190430,all_positive_evaluation,ratio_GrossProfitMargin,,1.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+766,315189,20190430,all_positive_evaluation,ratio_OperatingMargin,,0.8762166737198477,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+766,315189,20190430,all_positive_evaluation,ratio_NetProfitMargin,,0.1000581887431231,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+769,1739104,20190331,all_positive_evaluation,ratio_ReturnOnAssets,0.0036010700322381506,0.0036010700322381,match,0,
+769,1739104,20190331,all_positive_evaluation,ratio_QuickRatio,1.7548715052245127,1.7548715052245127,match,0,
+769,1739104,20190331,all_positive_evaluation,ratio_GrossProfitMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+769,1739104,20190331,all_positive_evaluation,ratio_OperatingMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+769,1739104,20190331,all_positive_evaluation,ratio_NetProfitMargin,0.043085761181780875,0.0,different,1,
+115655,1556727,20190331,hashed_nonlinked_control,ratio_ReturnOnAssets,0.0017258515673813273,0.0017258515673813,match,0,
+115655,1556727,20190331,hashed_nonlinked_control,ratio_QuickRatio,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+115655,1556727,20190331,hashed_nonlinked_control,ratio_GrossProfitMargin,,0.9940519105984138,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+115655,1556727,20190331,hashed_nonlinked_control,ratio_OperatingMargin,,0.9038392213410238,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+115655,1556727,20190331,hashed_nonlinked_control,ratio_NetProfitMargin,,0.1989005046863734,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+752,1031296,20190331,all_positive_evaluation,ratio_ReturnOnAssets,0.0079031859718449,0.0079031859718449,match,0,
+752,1031296,20190331,all_positive_evaluation,ratio_QuickRatio,0.47317298797409807,0.473172987974098,match,0,
+752,1031296,20190331,all_positive_evaluation,ratio_GrossProfitMargin,,0.9545612209503987,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+752,1031296,20190331,all_positive_evaluation,ratio_OperatingMargin,,0.2181755116198404,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+752,1031296,20190331,all_positive_evaluation,ratio_NetProfitMargin,,0.1109954908081859,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+599,1315257,20190331,all_positive_evaluation,ratio_ReturnOnAssets,0.007217271243881009,0.007217271243881,match,0,
+599,1315257,20190331,all_positive_evaluation,ratio_QuickRatio,0.9327062228654125,0.9327062228654124,match,0,
+599,1315257,20190331,all_positive_evaluation,ratio_GrossProfitMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+599,1315257,20190331,all_positive_evaluation,ratio_OperatingMargin,0.06530236836054265,0.0,different,1,
+599,1315257,20190331,all_positive_evaluation,ratio_NetProfitMargin,0.026442860427684525,0.0,different,1,
+115702,1570585,20190331,hashed_nonlinked_control,ratio_ReturnOnAssets,0.00013099390691198706,0.0001309939069119,match,0,
+115702,1570585,20190331,hashed_nonlinked_control,ratio_QuickRatio,,0.3613884739366302,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+115702,1570585,20190331,hashed_nonlinked_control,ratio_GrossProfitMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+115702,1570585,20190331,hashed_nonlinked_control,ratio_OperatingMargin,0.03678521617852162,0.0,different,1,
+115702,1570585,20190331,hashed_nonlinked_control,ratio_NetProfitMargin,0.0024407252440725243,0.0,different,1,
+114716,1254699,20190331,hashed_nonlinked_control,ratio_ReturnOnAssets,0.012051492741714598,0.0120514927417145,match,0,
+114716,1254699,20190331,hashed_nonlinked_control,ratio_QuickRatio,0.939167056621432,0.939167056621432,match,0,
+114716,1254699,20190331,hashed_nonlinked_control,ratio_GrossProfitMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+114716,1254699,20190331,hashed_nonlinked_control,ratio_OperatingMargin,0.13034786085565775,0.0,different,1,
+114716,1254699,20190331,hashed_nonlinked_control,ratio_NetProfitMargin,0.0703718512594962,0.0,different,1,
+821,1422892,20190331,all_positive_evaluation,ratio_ReturnOnAssets,-0.05187074216966703,-0.051870742169667,match,0,
+821,1422892,20190331,all_positive_evaluation,ratio_QuickRatio,,2.229396389866789,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+821,1422892,20190331,all_positive_evaluation,ratio_GrossProfitMargin,0.07455906715363218,0.0745590671536321,match,0,
+821,1422892,20190331,all_positive_evaluation,ratio_OperatingMargin,-0.053977319507864066,-0.053977319507864,match,0,
+821,1422892,20190331,all_positive_evaluation,ratio_NetProfitMargin,-0.060983687843823374,-0.0609836878438233,match,0,
+655,93556,20190331,all_positive_evaluation,ratio_ReturnOnAssets,,0.0079169443111233,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+655,93556,20190331,all_positive_evaluation,ratio_QuickRatio,,0.4270229960806077,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+655,93556,20190331,all_positive_evaluation,ratio_GrossProfitMargin,,0.3316534677225822,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+655,93556,20190331,all_positive_evaluation,ratio_OperatingMargin,,0.0671946244300455,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+655,93556,20190331,all_positive_evaluation,ratio_NetProfitMargin,,0.0509659227261819,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+773,1090727,20190331,all_positive_evaluation,ratio_ReturnOnAssets,0.02134035074239834,0.0213403507423983,match,0,
+773,1090727,20190331,all_positive_evaluation,ratio_QuickRatio,,1.1283215989098343,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+773,1090727,20190331,all_positive_evaluation,ratio_GrossProfitMargin,,0.9335081585081584,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+773,1090727,20190331,all_positive_evaluation,ratio_OperatingMargin,0.08123543123543124,0.0812354312354312,match,0,
+773,1090727,20190331,all_positive_evaluation,ratio_NetProfitMargin,0.06474358974358975,0.0647435897435897,match,0,
+826,1341766,20200930,all_positive_evaluation,ratio_ReturnOnAssets,0.03710876530403829,0.0371087653040382,match,0,
+826,1341766,20200930,all_positive_evaluation,ratio_QuickRatio,2.6157908805599233,2.615790880559924,match,0,
+826,1341766,20200930,all_positive_evaluation,ratio_GrossProfitMargin,0.47595380121294334,0.4759538012129433,match,0,
+826,1341766,20200930,all_positive_evaluation,ratio_OperatingMargin,0.12780694255450906,0.127806942554509,match,0,
+826,1341766,20200930,all_positive_evaluation,ratio_NetProfitMargin,0.1290367212337071,0.1290367212337071,match,0,
+670,1692415,20200930,all_positive_evaluation,ratio_ReturnOnAssets,0.2878570552876918,0.2878570552876918,match,0,
+670,1692415,20200930,all_positive_evaluation,ratio_QuickRatio,22.717701698528426,22.717701698528423,match,0,
+670,1692415,20200930,all_positive_evaluation,ratio_GrossProfitMargin,0.7331982721469005,0.7331982721469005,match,0,
+670,1692415,20200930,all_positive_evaluation,ratio_OperatingMargin,0.5517364809987079,0.5517364809987079,match,0,
+670,1692415,20200930,all_positive_evaluation,ratio_NetProfitMargin,0.7210096745675613,0.7210096745675613,match,0,
+793,1483510,20201031,all_positive_evaluation,ratio_ReturnOnAssets,-0.054034188739592995,-0.0540341887395929,match,0,
+793,1483510,20201031,all_positive_evaluation,ratio_QuickRatio,0.4132855587722922,0.4132855587722922,match,0,
+793,1483510,20201031,all_positive_evaluation,ratio_GrossProfitMargin,0.04330235576490168,0.0433023557649016,match,0,
+793,1483510,20201031,all_positive_evaluation,ratio_OperatingMargin,-0.344394384914659,-0.344394384914659,match,0,
+793,1483510,20201031,all_positive_evaluation,ratio_NetProfitMargin,-0.2805338119176181,-0.2805338119176181,match,0,
+737,1680873,20200930,all_positive_evaluation,ratio_ReturnOnAssets,-0.001273357805896827,-0.0012733578058968,match,0,
+737,1680873,20200930,all_positive_evaluation,ratio_QuickRatio,0.48279533814286063,0.4827953381428606,match,0,
+737,1680873,20200930,all_positive_evaluation,ratio_GrossProfitMargin,0.17983882411003366,0.1798388241100336,match,0,
+737,1680873,20200930,all_positive_evaluation,ratio_OperatingMargin,0.0008036009877776234,0.0008036009877776,match,0,
+737,1680873,20200930,all_positive_evaluation,ratio_NetProfitMargin,-0.004458324163142972,-0.0044583241631429,match,0,
+136764,1265131,20200930,hashed_nonlinked_control,ratio_ReturnOnAssets,0.009050723590231957,0.0090507235902319,match,0,
+136764,1265131,20200930,hashed_nonlinked_control,ratio_QuickRatio,,2.494180941381269,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+136764,1265131,20200930,hashed_nonlinked_control,ratio_GrossProfitMargin,,1.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+136764,1265131,20200930,hashed_nonlinked_control,ratio_OperatingMargin,,0.8977890913519071,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+136764,1265131,20200930,hashed_nonlinked_control,ratio_NetProfitMargin,,0.3589512410454804,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+717,854800,20200930,all_positive_evaluation,ratio_ReturnOnAssets,-0.2246440080643881,-0.2246440080643881,match,0,
+717,854800,20200930,all_positive_evaluation,ratio_QuickRatio,3.8202511773940344,3.8202511773940335,match,0,
+717,854800,20200930,all_positive_evaluation,ratio_GrossProfitMargin,0.0057306590257879654,0.0057306590257879,match,0,
+717,854800,20200930,all_positive_evaluation,ratio_OperatingMargin,-17.2378223495702,-17.2378223495702,match,0,
+717,854800,20200930,all_positive_evaluation,ratio_NetProfitMargin,-40.54727793696275,-40.54727793696275,match,0,
+547,1043961,20200930,all_positive_evaluation,ratio_ReturnOnAssets,,-0.1593860114881498,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+547,1043961,20200930,all_positive_evaluation,ratio_QuickRatio,0.8256100291023059,0.8256100291023059,match,0,
+547,1043961,20200930,all_positive_evaluation,ratio_GrossProfitMargin,,0.2317148125384142,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+547,1043961,20200930,all_positive_evaluation,ratio_OperatingMargin,,-1.4947756607252611,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+547,1043961,20200930,all_positive_evaluation,ratio_NetProfitMargin,,-2.0295021511985247,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+137687,1494891,20200930,hashed_nonlinked_control,ratio_ReturnOnAssets,-0.06104540792707622,-0.0610454079270762,match,0,
+137687,1494891,20200930,hashed_nonlinked_control,ratio_QuickRatio,4.064878537940159,4.064878537940159,match,0,
+137687,1494891,20200930,hashed_nonlinked_control,ratio_GrossProfitMargin,0.4150057741103827,0.4150057741103827,match,0,
+137687,1494891,20200930,hashed_nonlinked_control,ratio_OperatingMargin,-1.4068979479225239,-1.406897947922524,match,0,
+137687,1494891,20200930,hashed_nonlinked_control,ratio_NetProfitMargin,-1.0444955229813297,-1.0444955229813295,match,0,
+660,93556,20200930,all_positive_evaluation,ratio_ReturnOnAssets,,0.0171390874488409,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+660,93556,20200930,all_positive_evaluation,ratio_QuickRatio,,0.689824245582453,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+660,93556,20200930,all_positive_evaluation,ratio_GrossProfitMargin,,0.3574619500285699,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+660,93556,20200930,all_positive_evaluation,ratio_OperatingMargin,,0.1411355254272505,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+660,93556,20200930,all_positive_evaluation,ratio_NetProfitMargin,,0.1025661004623136,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+778,1090727,20200930,all_positive_evaluation,ratio_ReturnOnAssets,0.03135916418293113,0.0313591641829311,match,0,
+778,1090727,20200930,all_positive_evaluation,ratio_QuickRatio,,1.2894668737060042,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+778,1090727,20200930,all_positive_evaluation,ratio_GrossProfitMargin,,0.9531970995385628,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+778,1090727,20200930,all_positive_evaluation,ratio_OperatingMargin,0.1112628307750259,0.1112628307750259,match,0,
+778,1090727,20200930,all_positive_evaluation,ratio_NetProfitMargin,0.09214615312176287,0.0921461531217628,match,0,
+811,1750,20191130,all_positive_evaluation,ratio_ReturnOnAssets,0.008091629152658271,0.0080916291526582,match,0,
+811,1750,20191130,all_positive_evaluation,ratio_QuickRatio,1.209840098400984,1.209840098400984,match,0,
+811,1750,20191130,all_positive_evaluation,ratio_GrossProfitMargin,0.15314672847209843,0.0,different,1,
+811,1750,20191130,all_positive_evaluation,ratio_OperatingMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+811,1750,20191130,all_positive_evaluation,ratio_NetProfitMargin,0.02531645569620253,0.0,different,1,
+668,1692415,20190930,all_positive_evaluation,ratio_ReturnOnAssets,-0.4585051099470891,-0.4585051099470891,match,0,
+668,1692415,20190930,all_positive_evaluation,ratio_QuickRatio,9.961852515882605,9.961852515882605,match,0,
+668,1692415,20190930,all_positive_evaluation,ratio_GrossProfitMargin,0.5084954385287445,0.5084954385287445,match,0,
+668,1692415,20190930,all_positive_evaluation,ratio_OperatingMargin,-39.82446782835353,-39.82446782835353,match,0,
+668,1692415,20190930,all_positive_evaluation,ratio_NetProfitMargin,-42.18192788531158,-42.18192788531158,match,0,
+726,1759546,20190930,all_positive_evaluation,ratio_ReturnOnAssets,0.0034364153142020246,0.003436415314202,match,0,
+726,1759546,20190930,all_positive_evaluation,ratio_QuickRatio,,5.870817828001775,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+726,1759546,20190930,all_positive_evaluation,ratio_GrossProfitMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+726,1759546,20190930,all_positive_evaluation,ratio_OperatingMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+726,1759546,20190930,all_positive_evaluation,ratio_NetProfitMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+771,1739104,20190930,all_positive_evaluation,ratio_ReturnOnAssets,0.0011333114226458288,0.0011333114226458,match,0,
+771,1739104,20190930,all_positive_evaluation,ratio_QuickRatio,1.6745785569790965,1.6745785569790963,match,0,
+771,1739104,20190930,all_positive_evaluation,ratio_GrossProfitMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+771,1739104,20190930,all_positive_evaluation,ratio_OperatingMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+771,1739104,20190930,all_positive_evaluation,ratio_NetProfitMargin,0.012965123816932453,0.0,different,1,
+124883,1570562,20190930,hashed_nonlinked_control,ratio_ReturnOnAssets,-0.1477231668728718,-0.1477231668728718,match,0,
+124883,1570562,20190930,hashed_nonlinked_control,ratio_QuickRatio,3.277931777931778,3.277931777931778,match,0,
+124883,1570562,20190930,hashed_nonlinked_control,ratio_GrossProfitMargin,0.7176274018379282,0.7176274018379282,match,0,
+124883,1570562,20190930,hashed_nonlinked_control,ratio_OperatingMargin,-1.9091668565352775,-1.9091668565352773,match,0,
+124883,1570562,20190930,hashed_nonlinked_control,ratio_NetProfitMargin,-2.049365838839523,-2.049365838839523,match,0,
+756,1031296,20190930,all_positive_evaluation,ratio_ReturnOnAssets,0.009420324772322073,0.009420324772322,match,0,
+756,1031296,20190930,all_positive_evaluation,ratio_QuickRatio,0.5562632696390658,0.5562632696390658,match,0,
+756,1031296,20190930,all_positive_evaluation,ratio_GrossProfitMargin,,0.9588255146810664,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+756,1031296,20190930,all_positive_evaluation,ratio_OperatingMargin,,0.2298346270671616,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+756,1031296,20190930,all_positive_evaluation,ratio_NetProfitMargin,,0.1319608504893688,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+661,1066923,20190930,all_positive_evaluation,ratio_ReturnOnAssets,-0.016791392940837,-0.016791392940837,match,0,
+661,1066923,20190930,all_positive_evaluation,ratio_QuickRatio,0.18262542988234967,0.1826254298823496,match,0,
+661,1066923,20190930,all_positive_evaluation,ratio_GrossProfitMargin,0.7265609925802057,0.7265609925802057,match,0,
+661,1066923,20190930,all_positive_evaluation,ratio_OperatingMargin,-3.9411971069233873,-3.9411971069233873,match,0,
+661,1066923,20190930,all_positive_evaluation,ratio_NetProfitMargin,-3.169746066456566,-3.169746066456566,match,0,
+703,1315255,20190930,all_positive_evaluation,ratio_ReturnOnAssets,-0.005586711303494893,-0.0055867113034948,match,0,
+703,1315255,20190930,all_positive_evaluation,ratio_QuickRatio,,0.5432171687340027,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+703,1315255,20190930,all_positive_evaluation,ratio_GrossProfitMargin,,0.4457142857142857,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+703,1315255,20190930,all_positive_evaluation,ratio_OperatingMargin,,0.0716666666666666,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+703,1315255,20190930,all_positive_evaluation,ratio_NetProfitMargin,,-0.0623809523809523,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+734,1680873,20190930,all_positive_evaluation,ratio_ReturnOnAssets,0.016214851837575716,0.0162148518375757,match,0,
+734,1680873,20190930,all_positive_evaluation,ratio_QuickRatio,0.6708096131249704,0.6708096131249704,match,0,
+734,1680873,20190930,all_positive_evaluation,ratio_GrossProfitMargin,0.16106114757818665,0.1610611475781866,match,0,
+734,1680873,20190930,all_positive_evaluation,ratio_OperatingMargin,0.029357938823848073,0.029357938823848,match,0,
+734,1680873,20190930,all_positive_evaluation,ratio_NetProfitMargin,0.017801651139421792,0.0178016511394217,match,0,
+122210,857737,20190930,hashed_nonlinked_control,ratio_ReturnOnAssets,-0.059510952895217524,-0.0595109528952175,match,0,
+122210,857737,20190930,hashed_nonlinked_control,ratio_QuickRatio,,1.0645726919265075,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+122210,857737,20190930,hashed_nonlinked_control,ratio_GrossProfitMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+122210,857737,20190930,hashed_nonlinked_control,ratio_OperatingMargin,-0.22877843872459191,0.0,different,1,
+122210,857737,20190930,hashed_nonlinked_control,ratio_NetProfitMargin,-1.0066815144766148,0.0,different,1,
+601,1315257,20190930,all_positive_evaluation,ratio_ReturnOnAssets,0.012746234067207415,0.0127462340672074,match,0,
+601,1315257,20190930,all_positive_evaluation,ratio_QuickRatio,0.9216205982582355,0.9216205982582356,match,0,
+601,1315257,20190930,all_positive_evaluation,ratio_GrossProfitMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+601,1315257,20190930,all_positive_evaluation,ratio_OperatingMargin,0.08338597599494631,0.0,different,1,
+601,1315257,20190930,all_positive_evaluation,ratio_NetProfitMargin,0.041692987997473153,0.0,different,1,
+711,854800,20190930,all_positive_evaluation,ratio_ReturnOnAssets,-0.15862611431567908,-0.158626114315679,match,0,
+711,854800,20190930,all_positive_evaluation,ratio_QuickRatio,,0.7403267411865864,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+711,854800,20190930,all_positive_evaluation,ratio_GrossProfitMargin,,0.0243682310469314,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+711,854800,20190930,all_positive_evaluation,ratio_OperatingMargin,,-0.2260830324909747,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+711,854800,20190930,all_positive_evaluation,ratio_NetProfitMargin,,-0.546028880866426,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+583,1760173,20190930,all_positive_evaluation,ratio_ReturnOnAssets,-0.008255477420792846,-0.0082554774207928,match,0,
+583,1760173,20190930,all_positive_evaluation,ratio_QuickRatio,1.3201007459071976,1.3201007459071976,match,0,
+583,1760173,20190930,all_positive_evaluation,ratio_GrossProfitMargin,0.5449565868460113,0.5449565868460113,match,0,
+583,1760173,20190930,all_positive_evaluation,ratio_OperatingMargin,-0.04072035623743908,-0.040720356237439,match,0,
+583,1760173,20190930,all_positive_evaluation,ratio_NetProfitMargin,-0.0637339253109853,-0.0637339253109853,match,0,
+657,93556,20190930,all_positive_evaluation,ratio_ReturnOnAssets,,0.0108101770430296,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+657,93556,20190930,all_positive_evaluation,ratio_QuickRatio,,0.4749260368621253,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+657,93556,20190930,all_positive_evaluation,ratio_GrossProfitMargin,,0.3411686989072692,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+657,93556,20190930,all_positive_evaluation,ratio_OperatingMargin,,0.0870606369216371,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+657,93556,20190930,all_positive_evaluation,ratio_NetProfitMargin,,0.063444441386144,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+595,1353487,20190930,all_positive_evaluation,ratio_ReturnOnAssets,-0.17302820292707438,-0.1730282029270743,match,0,
+595,1353487,20190930,all_positive_evaluation,ratio_QuickRatio,0.6929218486104713,0.6929218486104713,match,0,
+595,1353487,20190930,all_positive_evaluation,ratio_GrossProfitMargin,0.4609889076894153,0.4609889076894153,match,0,
+595,1353487,20190930,all_positive_evaluation,ratio_OperatingMargin,-1.5085542395187066,-1.5085542395187066,match,0,
+595,1353487,20190930,all_positive_evaluation,ratio_NetProfitMargin,-1.5536755029140816,-1.5536755029140816,match,0,
+775,1090727,20190930,all_positive_evaluation,ratio_ReturnOnAssets,0.03284411245824106,0.032844112458241,match,0,
+775,1090727,20190930,all_positive_evaluation,ratio_QuickRatio,,1.1051032333463189,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+775,1090727,20190930,all_positive_evaluation,ratio_GrossProfitMargin,,0.9361283982967572,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+775,1090727,20190930,all_positive_evaluation,ratio_OperatingMargin,0.11616988754230811,0.1161698875423081,match,0,
+775,1090727,20190930,all_positive_evaluation,ratio_NetProfitMargin,0.0955344469920297,0.0955344469920297,match,0,
+825,1341766,20200630,all_positive_evaluation,ratio_ReturnOnAssets,0.01575680716275903,0.015756807162759,match,0,
+825,1341766,20200630,all_positive_evaluation,ratio_QuickRatio,1.2763675047288332,1.2763675047288332,match,0,
+825,1341766,20200630,all_positive_evaluation,ratio_GrossProfitMargin,0.43322291368640653,0.4332229136864065,match,0,
+825,1341766,20200630,all_positive_evaluation,ratio_OperatingMargin,0.04964592770164836,0.0496459277016483,match,0,
+825,1341766,20200630,all_positive_evaluation,ratio_NetProfitMargin,0.051880088664642714,0.0518800886646427,match,0,
+129489,1707178,20200630,hashed_nonlinked_control,ratio_ReturnOnAssets,-0.053553553553553554,-0.0535535535535535,match,0,
+129489,1707178,20200630,hashed_nonlinked_control,ratio_QuickRatio,,1.0045955882352942,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+129489,1707178,20200630,hashed_nonlinked_control,ratio_GrossProfitMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+129489,1707178,20200630,hashed_nonlinked_control,ratio_OperatingMargin,-1.3194444444444444,0.0,different,1,
+129489,1707178,20200630,hashed_nonlinked_control,ratio_NetProfitMargin,-1.4861111111111112,0.0,different,1,
+132208,1319947,20200731,hashed_nonlinked_control,ratio_ReturnOnAssets,,-0.0432040899907049,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+132208,1319947,20200731,hashed_nonlinked_control,ratio_QuickRatio,,0.4862630712264165,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+132208,1319947,20200731,hashed_nonlinked_control,ratio_GrossProfitMargin,,1.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+132208,1319947,20200731,hashed_nonlinked_control,ratio_OperatingMargin,,-0.2776396018900828,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+132208,1319947,20200731,hashed_nonlinked_control,ratio_NetProfitMargin,,-0.200553792621816,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+728,1759546,20200630,all_positive_evaluation,ratio_ReturnOnAssets,-0.0013434120934815964,-0.0013434120934815,match,0,
+728,1759546,20200630,all_positive_evaluation,ratio_QuickRatio,,1.6411309735624726,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+728,1759546,20200630,all_positive_evaluation,ratio_GrossProfitMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+728,1759546,20200630,all_positive_evaluation,ratio_OperatingMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+728,1759546,20200630,all_positive_evaluation,ratio_NetProfitMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+792,1483510,20200731,all_positive_evaluation,ratio_ReturnOnAssets,,-0.0638658231028703,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+792,1483510,20200731,all_positive_evaluation,ratio_QuickRatio,,0.6316867830348385,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+792,1483510,20200731,all_positive_evaluation,ratio_GrossProfitMargin,,-0.1793099799351249,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+792,1483510,20200731,all_positive_evaluation,ratio_OperatingMargin,,-0.5547103616968454,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+792,1483510,20200731,all_positive_evaluation,ratio_NetProfitMargin,,-0.4386189830811997,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+760,1031296,20200630,all_positive_evaluation,ratio_ReturnOnAssets,0.007287220243850671,0.0072872202438506,match,0,
+760,1031296,20200630,all_positive_evaluation,ratio_QuickRatio,0.6615566037735849,0.6615566037735849,match,0,
+760,1031296,20200630,all_positive_evaluation,ratio_GrossProfitMargin,,0.9694686756542428,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+760,1031296,20200630,all_positive_evaluation,ratio_OperatingMargin,,0.204203013481364,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+760,1031296,20200630,all_positive_evaluation,ratio_NetProfitMargin,,0.1225218080888183,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+662,1066923,20200331,all_positive_evaluation,ratio_ReturnOnAssets,5.1666482112173275,5.166648211217328,match,0,
+662,1066923,20200331,all_positive_evaluation,ratio_QuickRatio,0.31705908556646256,0.3170590855664625,match,0,
+662,1066923,20200331,all_positive_evaluation,ratio_GrossProfitMargin,0.9974343714209981,0.997434371420998,match,0,
+662,1066923,20200331,all_positive_evaluation,ratio_OperatingMargin,-29.685828027866826,-29.685828027866823,match,0,
+662,1066923,20200331,all_positive_evaluation,ratio_NetProfitMargin,586.1774034638487,586.1774034638487,match,0,
+663,1066923,20200630,all_positive_evaluation,ratio_ReturnOnAssets,-0.022680337816559332,-0.0226803378165593,match,0,
+663,1066923,20200630,all_positive_evaluation,ratio_QuickRatio,0.13913467509024754,0.1391346750902475,match,0,
+663,1066923,20200630,all_positive_evaluation,ratio_GrossProfitMargin,0.9176774829136137,0.9176774829136136,match,0,
+663,1066923,20200630,all_positive_evaluation,ratio_OperatingMargin,-4.638859324285098,-4.638859324285098,match,0,
+663,1066923,20200630,all_positive_evaluation,ratio_NetProfitMargin,-4.651041895731262,-4.651041895731262,match,0,
+736,1680873,20200630,all_positive_evaluation,ratio_ReturnOnAssets,-0.008178693378803415,-0.0081786933788034,match,0,
+736,1680873,20200630,all_positive_evaluation,ratio_QuickRatio,0.4285971868521461,0.4285971868521461,match,0,
+736,1680873,20200630,all_positive_evaluation,ratio_GrossProfitMargin,0.1971381510590809,0.1971381510590809,match,0,
+736,1680873,20200630,all_positive_evaluation,ratio_OperatingMargin,-0.042844107564706135,-0.0428441075647061,match,0,
+736,1680873,20200630,all_positive_evaluation,ratio_NetProfitMargin,-0.03881885303548306,-0.038818853035483,match,0,
+715,854800,20200630,all_positive_evaluation,ratio_ReturnOnAssets,0.01135,0.01135,match,0,
+715,854800,20200630,all_positive_evaluation,ratio_QuickRatio,0.9320693828156514,0.9320693828156514,match,0,
+715,854800,20200630,all_positive_evaluation,ratio_GrossProfitMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+715,854800,20200630,all_positive_evaluation,ratio_OperatingMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+715,854800,20200630,all_positive_evaluation,ratio_NetProfitMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+133541,1609804,20200630,hashed_nonlinked_control,ratio_ReturnOnAssets,-0.01418700030320923,-0.0141870003032092,match,0,
+133541,1609804,20200630,hashed_nonlinked_control,ratio_QuickRatio,1.0936060017517804,1.0936060017517804,match,0,
+133541,1609804,20200630,hashed_nonlinked_control,ratio_GrossProfitMargin,0.16750226994591608,0.167502269945916,match,0,
+133541,1609804,20200630,hashed_nonlinked_control,ratio_OperatingMargin,-0.06355355098495914,-0.0635535509849591,match,0,
+133541,1609804,20200630,hashed_nonlinked_control,ratio_NetProfitMargin,-0.08773834432118748,-0.0877383443211874,match,0,
+659,93556,20200630,all_positive_evaluation,ratio_ReturnOnAssets,,0.0103722524842936,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+659,93556,20200630,all_positive_evaluation,ratio_QuickRatio,,0.6587816438416005,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+659,93556,20200630,all_positive_evaluation,ratio_GrossProfitMargin,,0.3217576412276799,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+659,93556,20200630,all_positive_evaluation,ratio_OperatingMargin,,0.0642752748300184,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+659,93556,20200630,all_positive_evaluation,ratio_NetProfitMargin,,0.0757450594141195,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+777,1090727,20200630,all_positive_evaluation,ratio_ReturnOnAssets,0.028489936671124934,0.0284899366711249,match,0,
+777,1090727,20200630,all_positive_evaluation,ratio_QuickRatio,,1.2430704935160717,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+777,1090727,20200630,all_positive_evaluation,ratio_GrossProfitMargin,,0.9582579793733808,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+777,1090727,20200630,all_positive_evaluation,ratio_OperatingMargin,0.10811867637714453,0.1081186763771445,match,0,
+777,1090727,20200630,all_positive_evaluation,ratio_NetProfitMargin,0.08641673591084609,0.086416735910846,match,0,
+543,10456,20190630,all_positive_evaluation,ratio_ReturnOnAssets,0.019550843593251255,0.0195508435932512,match,0,
+543,10456,20190630,all_positive_evaluation,ratio_QuickRatio,2.102810935695033,2.102810935695033,match,0,
+543,10456,20190630,all_positive_evaluation,ratio_GrossProfitMargin,0.4080985915492958,289.75,different,0,
+543,10456,20190630,all_positive_evaluation,ratio_OperatingMargin,0.125,88.75,different,0,
+543,10456,20190630,all_positive_evaluation,ratio_NetProfitMargin,0.12077464788732395,85.75,different,0,
+790,10795,20190630,all_positive_evaluation,ratio_ReturnOnAssets,0.008634388222005246,0.0086343882220052,match,0,
+790,10795,20190630,all_positive_evaluation,ratio_QuickRatio,0.6657046657046657,0.6657046657046657,match,0,
+790,10795,20190630,all_positive_evaluation,ratio_GrossProfitMargin,,0.4767816091954023,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+790,10795,20190630,all_positive_evaluation,ratio_OperatingMargin,0.14390804597701148,0.1439080459770114,match,0,
+790,10795,20190630,all_positive_evaluation,ratio_NetProfitMargin,0.10367816091954023,0.1036781609195402,match,0,
+667,1692415,20190630,all_positive_evaluation,ratio_ReturnOnAssets,-0.25280651988525515,-0.2528065198852551,match,0,
+667,1692415,20190630,all_positive_evaluation,ratio_QuickRatio,14.586146456506205,14.586146456506205,match,0,
+667,1692415,20190630,all_positive_evaluation,ratio_GrossProfitMargin,0.36971773800630137,0.3697177380063013,match,0,
+667,1692415,20190630,all_positive_evaluation,ratio_OperatingMargin,-22.18085555591646,-22.18085555591646,match,0,
+667,1692415,20190630,all_positive_evaluation,ratio_NetProfitMargin,-21.83382596550492,-21.83382596550492,match,0,
+767,315189,20190731,all_positive_evaluation,ratio_ReturnOnAssets,,0.0122263021895824,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+767,315189,20190731,all_positive_evaluation,ratio_QuickRatio,,0.1074070546401244,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+767,315189,20190731,all_positive_evaluation,ratio_GrossProfitMargin,,1.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+767,315189,20190731,all_positive_evaluation,ratio_OperatingMargin,,0.8677760063770427,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+767,315189,20190731,all_positive_evaluation,ratio_NetProfitMargin,,0.0895775209246711,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+725,1759546,20190630,all_positive_evaluation,ratio_ReturnOnAssets,0.003896418882744343,0.0038964188827443,match,0,
+725,1759546,20190630,all_positive_evaluation,ratio_QuickRatio,,8.80716979679803,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+725,1759546,20190630,all_positive_evaluation,ratio_GrossProfitMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+725,1759546,20190630,all_positive_evaluation,ratio_OperatingMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+725,1759546,20190630,all_positive_evaluation,ratio_NetProfitMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+630,1688568,20190630,all_positive_evaluation,ratio_ReturnOnAssets,0.005003530097921847,0.0050035300979218,match,0,
+630,1688568,20190630,all_positive_evaluation,ratio_QuickRatio,,0.8770614692653673,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+630,1688568,20190630,all_positive_evaluation,ratio_GrossProfitMargin,,0.2593047034764826,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+630,1688568,20190630,all_positive_evaluation,ratio_OperatingMargin,0.13333333333333333,-0.6744376278118609,different,0,
+630,1688568,20190630,all_positive_evaluation,ratio_NetProfitMargin,0.03333333333333333,0.0333333333333333,match,0,
+770,1739104,20190630,all_positive_evaluation,ratio_ReturnOnAssets,0.004053336946335626,0.0040533369463356,match,0,
+770,1739104,20190630,all_positive_evaluation,ratio_QuickRatio,1.7111254019292605,1.7111254019292603,match,0,
+770,1739104,20190630,all_positive_evaluation,ratio_GrossProfitMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+770,1739104,20190630,all_positive_evaluation,ratio_OperatingMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+770,1739104,20190630,all_positive_evaluation,ratio_NetProfitMargin,0.04593142272262027,0.0,different,1,
+754,1031296,20190630,all_positive_evaluation,ratio_ReturnOnAssets,0.007631347226298797,0.0076313472262987,match,0,
+754,1031296,20190630,all_positive_evaluation,ratio_QuickRatio,0.5335174491589254,0.5335174491589254,match,0,
+754,1031296,20190630,all_positive_evaluation,ratio_GrossProfitMargin,,0.9487281399046104,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+754,1031296,20190630,all_positive_evaluation,ratio_OperatingMargin,,0.2325119236883942,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+754,1031296,20190630,all_positive_evaluation,ratio_NetProfitMargin,,0.1240063593004769,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+733,1680873,20190630,all_positive_evaluation,ratio_ReturnOnAssets,0.011016763376062874,0.0110167633760628,match,0,
+733,1680873,20190630,all_positive_evaluation,ratio_QuickRatio,0.7207232613784476,0.7207232613784476,match,0,
+733,1680873,20190630,all_positive_evaluation,ratio_GrossProfitMargin,0.1674578883759602,0.1674578883759602,match,0,
+733,1680873,20190630,all_positive_evaluation,ratio_OperatingMargin,0.01897947067947536,0.0189794706794753,match,0,
+733,1680873,20190630,all_positive_evaluation,ratio_NetProfitMargin,0.013690036936914679,0.0136900369369146,match,0,
+742,837852,20190630,all_positive_evaluation,ratio_ReturnOnAssets,0.03542390652384838,0.0354239065238483,match,0,
+742,837852,20190630,all_positive_evaluation,ratio_QuickRatio,,0.796709143958748,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+742,837852,20190630,all_positive_evaluation,ratio_GrossProfitMargin,0.9504356763395384,0.0,different,1,
+742,837852,20190630,all_positive_evaluation,ratio_OperatingMargin,0.39529772023676263,0.0,different,1,
+742,837852,20190630,all_positive_evaluation,ratio_NetProfitMargin,0.3661339581251486,0.0,different,1,
+117901,949961,20190630,hashed_nonlinked_control,ratio_ReturnOnAssets,0.011070937515913835,0.0110709375159138,match,0,
+117901,949961,20190630,hashed_nonlinked_control,ratio_QuickRatio,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+117901,949961,20190630,hashed_nonlinked_control,ratio_GrossProfitMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+117901,949961,20190630,hashed_nonlinked_control,ratio_OperatingMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+117901,949961,20190630,hashed_nonlinked_control,ratio_NetProfitMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+600,1315257,20190630,all_positive_evaluation,ratio_ReturnOnAssets,0.009198423127463863,0.0091984231274638,match,0,
+600,1315257,20190630,all_positive_evaluation,ratio_QuickRatio,1.004332129963899,1.004332129963899,match,0,
+600,1315257,20190630,all_positive_evaluation,ratio_GrossProfitMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+600,1315257,20190630,all_positive_evaluation,ratio_OperatingMargin,0.08194976585781183,0.0,different,1,
+600,1315257,20190630,all_positive_evaluation,ratio_NetProfitMargin,0.031289910600255426,0.0,different,1,
+123825,1348362,20190531,hashed_nonlinked_control,ratio_ReturnOnAssets,,-0.3436223098101355,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+123825,1348362,20190531,hashed_nonlinked_control,ratio_QuickRatio,18.287619148405433,18.28761914840544,match,0,
+123825,1348362,20190531,hashed_nonlinked_control,ratio_GrossProfitMargin,0.9483405916804325,0.9483405916804324,match,0,
+123825,1348362,20190531,hashed_nonlinked_control,ratio_OperatingMargin,,-19.82172832090237,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+123825,1348362,20190531,hashed_nonlinked_control,ratio_NetProfitMargin,,-19.82172832090237,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+709,854800,20190630,all_positive_evaluation,ratio_ReturnOnAssets,-0.5526579739217653,-0.5526579739217653,match,0,
+709,854800,20190630,all_positive_evaluation,ratio_QuickRatio,,-1.7826832404629234,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+709,854800,20190630,all_positive_evaluation,ratio_GrossProfitMargin,,0.3258881089129972,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+709,854800,20190630,all_positive_evaluation,ratio_OperatingMargin,,-0.1425228674750053,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+709,854800,20190630,all_positive_evaluation,ratio_NetProfitMargin,,-0.2344182088917251,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+120396,1618755,20190630,hashed_nonlinked_control,ratio_ReturnOnAssets,,0.0118296892980437,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+120396,1618755,20190630,hashed_nonlinked_control,ratio_QuickRatio,1.1373825018076644,1.1373825018076644,match,0,
+120396,1618755,20190630,hashed_nonlinked_control,ratio_GrossProfitMargin,,0.6764285714285714,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+120396,1618755,20190630,hashed_nonlinked_control,ratio_OperatingMargin,0.3507142857142857,0.3507142857142857,match,0,
+120396,1618755,20190630,hashed_nonlinked_control,ratio_NetProfitMargin,,0.1835714285714285,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+581,1760173,20190630,all_positive_evaluation,ratio_ReturnOnAssets,0.0011972752332997001,0.0011972752332997,match,0,
+581,1760173,20190630,all_positive_evaluation,ratio_QuickRatio,1.3833552552911634,1.3833552552911634,match,0,
+581,1760173,20190630,all_positive_evaluation,ratio_GrossProfitMargin,0.5436354137558166,0.5436354137558166,match,0,
+581,1760173,20190630,all_positive_evaluation,ratio_OperatingMargin,0.01847959468817962,0.0184795946881796,match,0,
+581,1760173,20190630,all_positive_evaluation,ratio_NetProfitMargin,0.009039328368182536,0.0090393283681825,match,0,
+656,93556,20190630,all_positive_evaluation,ratio_ReturnOnAssets,,0.0165539222063223,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+656,93556,20190630,all_positive_evaluation,ratio_QuickRatio,,0.4390511400824326,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+656,93556,20190630,all_positive_evaluation,ratio_GrossProfitMargin,,0.3455720096775051,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+656,93556,20190630,all_positive_evaluation,ratio_OperatingMargin,,0.105841065589025,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+656,93556,20190630,all_positive_evaluation,ratio_NetProfitMargin,,0.09472788663494,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+774,1090727,20190630,all_positive_evaluation,ratio_ReturnOnAssets,0.03192073806050732,0.0319207380605073,match,0,
+774,1090727,20190630,all_positive_evaluation,ratio_QuickRatio,,1.0887552262891511,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+774,1090727,20190630,all_positive_evaluation,ratio_GrossProfitMargin,,0.9346742021276596,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+774,1090727,20190630,all_positive_evaluation,ratio_OperatingMargin,0.11873891843971632,0.1187389184397163,match,0,
+774,1090727,20190630,all_positive_evaluation,ratio_NetProfitMargin,0.09336214539007093,0.0933621453900709,match,0,
+521,1365916,20180630,targeted_Amyris_example,ratio_ReturnOnAssets,0.01292013619660857,0.0129201361966085,match,0,
+521,1365916,20180630,targeted_Amyris_example,ratio_QuickRatio,0.3796199387160637,0.3796199387160637,match,0,
+521,1365916,20180630,targeted_Amyris_example,ratio_GrossProfitMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+521,1365916,20180630,targeted_Amyris_example,ratio_OperatingMargin,-0.7875312580839873,0.0,different,1,
+521,1365916,20180630,targeted_Amyris_example,ratio_NetProfitMargin,0.06609467965853238,0.0,different,1,
+624,1833909,20210630,all_positive_evaluation,ratio_ReturnOnAssets,-0.017310135369325765,-0.0173101353693257,match,0,
+624,1833909,20210630,all_positive_evaluation,ratio_QuickRatio,,34.494650528750824,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+624,1833909,20210630,all_positive_evaluation,ratio_GrossProfitMargin,,1.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+624,1833909,20210630,all_positive_evaluation,ratio_OperatingMargin,,0.0533360758539057,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+624,1833909,20210630,all_positive_evaluation,ratio_NetProfitMargin,,1.053336075853906,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+828,1341766,20210630,all_positive_evaluation,ratio_ReturnOnAssets,0.01639567270497339,0.0163956727049733,match,0,
+828,1341766,20210630,all_positive_evaluation,ratio_QuickRatio,2.6075808049180567,2.6075808049180567,match,0,
+828,1341766,20210630,all_positive_evaluation,ratio_GrossProfitMargin,0.4341159740682061,0.4341159740682061,match,0,
+828,1341766,20210630,all_positive_evaluation,ratio_OperatingMargin,0.055304521639382084,0.055304521639382,match,0,
+828,1341766,20210630,all_positive_evaluation,ratio_NetProfitMargin,0.0608597166614651,0.0608597166614651,match,0,
+149284,936395,20210731,hashed_nonlinked_control,ratio_ReturnOnAssets,0.0511681173091677,0.0511681173091677,match,0,
+149284,936395,20210731,hashed_nonlinked_control,ratio_QuickRatio,3.160429747149951,3.160429747149951,match,0,
+149284,936395,20210731,hashed_nonlinked_control,ratio_GrossProfitMargin,0.48024522816075843,0.4802452281607584,match,0,
+149284,936395,20210731,hashed_nonlinked_control,ratio_OperatingMargin,0.15030547259955815,0.1503054725995581,match,0,
+149284,936395,20210731,hashed_nonlinked_control,ratio_NetProfitMargin,0.24109109934715794,0.2410910993471579,match,0,
+672,1692415,20210630,all_positive_evaluation,ratio_ReturnOnAssets,0.10545608191430275,0.1054560819143027,match,0,
+672,1692415,20210630,all_positive_evaluation,ratio_QuickRatio,18.22825589782662,18.22825589782662,match,0,
+672,1692415,20210630,all_positive_evaluation,ratio_GrossProfitMargin,0.90846033392621,0.90846033392621,match,0,
+672,1692415,20210630,all_positive_evaluation,ratio_OperatingMargin,0.4309929329991001,0.4309929329991001,match,0,
+672,1692415,20210630,all_positive_evaluation,ratio_NetProfitMargin,0.3576709893289529,0.3576709893289529,match,0,
+795,1483510,20210731,all_positive_evaluation,ratio_ReturnOnAssets,0.008508613381532014,0.008508613381532,match,0,
+795,1483510,20210731,all_positive_evaluation,ratio_QuickRatio,0.22597870585271773,0.2259787058527177,match,0,
+795,1483510,20210731,all_positive_evaluation,ratio_GrossProfitMargin,0.3262635290312853,0.3262635290312853,match,0,
+795,1483510,20210731,all_positive_evaluation,ratio_OperatingMargin,0.032288304667338244,0.0322883046673382,match,0,
+795,1483510,20210731,all_positive_evaluation,ratio_NetProfitMargin,0.023248191212494017,0.023248191212494,match,0,
+144953,1162194,20210630,hashed_nonlinked_control,ratio_ReturnOnAssets,-0.05925375455818053,-0.0592537545581805,match,0,
+144953,1162194,20210630,hashed_nonlinked_control,ratio_QuickRatio,1.0053739025128672,1.0053739025128672,match,0,
+144953,1162194,20210630,hashed_nonlinked_control,ratio_GrossProfitMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+144953,1162194,20210630,hashed_nonlinked_control,ratio_OperatingMargin,-0.556709007672964,0.0,different,1,
+144953,1162194,20210630,hashed_nonlinked_control,ratio_NetProfitMargin,-0.5526790895609002,0.0,different,1,
+730,1759546,20210630,all_positive_evaluation,ratio_ReturnOnAssets,-0.15743815241526424,-0.1574381524152642,match,0,
+730,1759546,20210630,all_positive_evaluation,ratio_QuickRatio,,4.732114330654476,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+730,1759546,20210630,all_positive_evaluation,ratio_GrossProfitMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+730,1759546,20210630,all_positive_evaluation,ratio_OperatingMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+730,1759546,20210630,all_positive_evaluation,ratio_NetProfitMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+721,854800,20210630,all_positive_evaluation,ratio_ReturnOnAssets,-0.10356708552898257,-0.1035670855289825,match,0,
+721,854800,20210630,all_positive_evaluation,ratio_QuickRatio,,8.620200170079153,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+721,854800,20210630,all_positive_evaluation,ratio_GrossProfitMargin,0.053966453285795316,0.0539664532857953,match,0,
+721,854800,20210630,all_positive_evaluation,ratio_OperatingMargin,-1.342597844583097,-1.342597844583097,match,0,
+721,854800,20210630,all_positive_evaluation,ratio_NetProfitMargin,-1.490640952921157,-1.490640952921157,match,0,
+145060,1227025,20210630,hashed_nonlinked_control,ratio_ReturnOnAssets,-0.06154525074579443,-0.0615452507457944,match,0,
+145060,1227025,20210630,hashed_nonlinked_control,ratio_QuickRatio,2.0903489393415136,2.0903489393415136,match,0,
+145060,1227025,20210630,hashed_nonlinked_control,ratio_GrossProfitMargin,0.15189970773727118,0.1518997077372711,match,0,
+145060,1227025,20210630,hashed_nonlinked_control,ratio_OperatingMargin,-0.25043839409321644,-0.2504383940932164,match,0,
+145060,1227025,20210630,hashed_nonlinked_control,ratio_NetProfitMargin,-0.268158744808491,-0.268158744808491,match,0,
+829,1341766,20210930,all_positive_evaluation,ratio_ReturnOnAssets,0.009308454769577444,0.0093084547695774,match,0,
+829,1341766,20210930,all_positive_evaluation,ratio_QuickRatio,1.3942267253099478,1.3942267253099478,match,0,
+829,1341766,20210930,all_positive_evaluation,ratio_GrossProfitMargin,0.3971523489317673,0.3971523489317673,match,0,
+829,1341766,20210930,all_positive_evaluation,ratio_OperatingMargin,0.04143206499692864,0.0414320649969286,match,0,
+829,1341766,20210930,all_positive_evaluation,ratio_NetProfitMargin,0.028930745313147002,0.028930745313147,match,0,
+673,1692415,20210930,all_positive_evaluation,ratio_ReturnOnAssets,0.10892290832088442,0.1089229083208844,match,0,
+673,1692415,20210930,all_positive_evaluation,ratio_QuickRatio,24.025898462995556,24.02589846299556,match,0,
+673,1692415,20210930,all_positive_evaluation,ratio_GrossProfitMargin,0.8899964729160181,0.8899964729160181,match,0,
+673,1692415,20210930,all_positive_evaluation,ratio_OperatingMargin,0.45280758642310864,0.4528075864231086,match,0,
+673,1692415,20210930,all_positive_evaluation,ratio_NetProfitMargin,0.38124419191389836,0.3812441919138983,match,0,
+796,1483510,20211031,all_positive_evaluation,ratio_ReturnOnAssets,,0.0098827303704777,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+796,1483510,20211031,all_positive_evaluation,ratio_QuickRatio,,0.2049731430411401,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+796,1483510,20211031,all_positive_evaluation,ratio_GrossProfitMargin,,0.3322337127977609,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+796,1483510,20211031,all_positive_evaluation,ratio_OperatingMargin,,0.0344378269464236,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+796,1483510,20211031,all_positive_evaluation,ratio_NetProfitMargin,,0.0277256923477851,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+731,1759546,20210930,all_positive_evaluation,ratio_ReturnOnAssets,-0.15356281896750698,-0.1535628189675069,match,0,
+731,1759546,20210930,all_positive_evaluation,ratio_QuickRatio,,2.9224613843579617,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+731,1759546,20210930,all_positive_evaluation,ratio_GrossProfitMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+731,1759546,20210930,all_positive_evaluation,ratio_OperatingMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+731,1759546,20210930,all_positive_evaluation,ratio_NetProfitMargin,,0.0,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+148613,752714,20210930,hashed_nonlinked_control,ratio_ReturnOnAssets,0.014439070191442497,0.0144390701914424,match,0,
+148613,752714,20210930,hashed_nonlinked_control,ratio_QuickRatio,,0.0035713374658809,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+148613,752714,20210930,hashed_nonlinked_control,ratio_GrossProfitMargin,0.4374408512799206,0.4374408512799206,match,0,
+148613,752714,20210930,hashed_nonlinked_control,ratio_OperatingMargin,0.20715324423516376,0.2071532442351637,match,0,
+148613,752714,20210930,hashed_nonlinked_control,ratio_NetProfitMargin,0.13417815017427231,0.1341781501742723,match,0,
+723,854800,20210930,all_positive_evaluation,ratio_ReturnOnAssets,-0.02925061762283832,-0.0292506176228383,match,0,
+723,854800,20210930,all_positive_evaluation,ratio_QuickRatio,,5.380595247493487,unavailable,0,"Missing, ambiguous, unmatched duration or zero denominator"
+723,854800,20210930,all_positive_evaluation,ratio_GrossProfitMargin,0.14831217931406968,0.1483121793140696,match,0,
+723,854800,20210930,all_positive_evaluation,ratio_OperatingMargin,-0.35220091817445315,-0.3522009181744531,match,0,
+723,854800,20210930,all_positive_evaluation,ratio_NetProfitMargin,-0.287766675668377,-0.287766675668377,match,0,

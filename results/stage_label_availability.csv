@@ -1,0 +1,4 @@
+stage,cutoff,positive_records,linked_date_by_cutoff,later_or_missing_linked_date
+development,2016-01-01,342,42,300
+validation,2018-01-01,133,0,133
+refit,2018-01-01,475,120,355

@@ -1,0 +1,11 @@
+id,doi,provider,metadata_url,checked_date,status,returned_doi,returned_title,issued,error
+R01,10.1111/1475-679X.12292,Crossref,https://api.crossref.org/works/10.1111/1475-679X.12292,2026-11-07,metadata_returned,10.1111/1475-679x.12292,Detecting Accounting Fraud in Publicly Traded U.S. Firms Using a Machine Learning Approach,"[[2020, 1, 19]]",
+R02,10.1111/1475-679X.12454,Crossref,https://api.crossref.org/works/10.1111/1475-679X.12454,2026-11-07,metadata_returned,10.1111/1475-679x.12454,Erratum,"[[2022, 8, 4]]",
+R04,10.1111/j.1911-3846.2010.01041.x,Crossref,https://api.crossref.org/works/10.1111/j.1911-3846.2010.01041.x,2026-11-07,metadata_returned,10.1111/j.1911-3846.2010.01041.x,Predicting Material Accounting Misstatements*,"[[2011, 1, 27]]",
+R05,10.18653/v1/2025.finnlp-2.10,Crossref,https://api.crossref.org/works/10.18653/v1/2025.finnlp-2.10,2026-11-07,metadata_returned,10.18653/v1/2025.finnlp-2.10,Do Companies Reveal Their Own Fraud? - A Novel Data Set for Fraud Detection Based on 10-K Reports,[[2025]],
+R06,10.5281/zenodo.17121948,DataCite,https://api.datacite.org/dois/10.5281/zenodo.17121948,2026-11-07,metadata_returned,10.5281/zenodo.17121948,10k-fraud-detection,2025,
+R07,10.48550/arXiv.2607.19259,DataCite,https://api.datacite.org/dois/10.48550/arXiv.2607.19259,2026-11-07,metadata_returned,10.48550/arxiv.2607.19259,Benchmarking Generalization in Financial Statement Fraud Detection: robust evaluation and novel tasks,2026,
+R09,10.24432/C5930Q,DataCite,https://api.datacite.org/dois/10.24432/C5930Q,2026-11-07,metadata_returned,10.24432/c5930q,Audit Data,2018,
+R10,10.1016/j.patter.2023.100804,Crossref,https://api.crossref.org/works/10.1016/j.patter.2023.100804,2026-11-07,metadata_returned,10.1016/j.patter.2023.100804,Leakage and the reproducibility crisis in machine-learning-based science,"[[2023, 9]]",
+R11,10.1371/journal.pone.0118432,Crossref,https://api.crossref.org/works/10.1371/journal.pone.0118432,2026-11-07,metadata_returned,10.1371/journal.pone.0118432,The Precision-Recall Plot Is More Informative than the ROC Plot When Evaluating Binary Classifiers on Imbalanced Datasets,"[[2015, 3, 4]]",
+R12,10.1145/1401890.1401920,Crossref,https://api.crossref.org/works/10.1145/1401890.1401920,2026-11-07,metadata_returned,10.1145/1401890.1401920,Learning classifiers from only positive and unlabeled data,"[[2008, 8, 24]]",

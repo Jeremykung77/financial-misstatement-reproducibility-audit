@@ -1,0 +1,22 @@
+{
+  "checks": {
+    "frozen_selection_and_filing_ids": true,
+    "selection_groups": true,
+    "chosen_fact_accession_date_unit": true,
+    "exact_report_dates_and_next_day": true,
+    "quarter_duration_not_annual": true,
+    "comparison_partition": true,
+    "all_raw_differences_are_narrow_cash": true,
+    "match_flags_agree_with_numbers": true,
+    "Amyris_original_and_later_earnings": true,
+    "nearby_candidates_not_silently_used": true,
+    "cash_reconciliation_denominator": true,
+    "residual_prior_period_fingerprint": true,
+    "all_recorded_official_fetches_succeeded": true,
+    "raw_cache_payload_hashes": true,
+    "raw_entity_identity": true
+  },
+  "all_pass": true,
+  "raw_cache_checked": true,
+  "scope": "Internal consistency checks within the same AI-assisted workflow; not independent-team replication."
+}

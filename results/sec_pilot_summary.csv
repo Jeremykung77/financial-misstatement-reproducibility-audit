@@ -1,0 +1,13 @@
+group,n_observations,firms,matched_statutory_filings,ratio,match,different,unavailable
+all_positive_evaluation,93,26,81,ratio_CurrentRatio,79,0,14
+all_positive_evaluation,93,26,81,ratio_WorkingCapitalToTotalAssets,79,0,14
+all_positive_evaluation,93,26,81,ratio_TotalLiabilitiesToAssets,57,0,36
+all_positive_evaluation,93,26,81,ratio_CashToTotalAsset,62,13,18
+hashed_nonlinked_control,26,26,25,ratio_CurrentRatio,18,0,8
+hashed_nonlinked_control,26,26,25,ratio_WorkingCapitalToTotalAssets,18,0,8
+hashed_nonlinked_control,26,26,25,ratio_TotalLiabilitiesToAssets,22,0,4
+hashed_nonlinked_control,26,26,25,ratio_CashToTotalAsset,15,6,5
+targeted_Amyris_example,1,1,1,ratio_CurrentRatio,1,0,0
+targeted_Amyris_example,1,1,1,ratio_WorkingCapitalToTotalAssets,1,0,0
+targeted_Amyris_example,1,1,1,ratio_TotalLiabilitiesToAssets,1,0,0
+targeted_Amyris_example,1,1,1,ratio_CashToTotalAsset,0,1,0

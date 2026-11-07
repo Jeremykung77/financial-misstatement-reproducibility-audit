@@ -1,0 +1,13 @@
+{
+  "CIK": 1494891,
+  "period": "2020-09-30",
+  "original_current_cash": 16127085.0,
+  "original_current_investment": 0.0,
+  "original_prior_year_investment": 7389407.0,
+  "original_current_assets_total": 27721217.0,
+  "processed_ratio": 0.8483210531485684,
+  "current_cash_over_assets": 0.5817596319815252,
+  "cash_plus_prior_year_investment_over_current_assets": 0.8483210531485684,
+  "absolute_difference_to_processed": 0.0,
+  "interpretation": "Exact numerical compatibility with including the prior-year investment balance; original transformation code not re-executed, so implementation cause is unproven. Not evidence of future-information leakage."
+}

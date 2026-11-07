@@ -1,0 +1,9 @@
+{
+  "input": "Observed companyfacts USD instants within accession 0001213900-20-036128",
+  "selected_investment_tag": "HeldToMaturitySecuritiesCurrent",
+  "selected_date": "20191231",
+  "selected_value": 7389407.0,
+  "target_period": "20200930",
+  "selected_prior_period": true,
+  "scope": "Equivalent isolated selector replay; not original NUM/PRE/TAG input and not end-to-end source pipeline replication"
+}

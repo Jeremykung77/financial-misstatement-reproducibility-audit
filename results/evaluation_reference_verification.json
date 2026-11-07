@@ -1,0 +1,22 @@
+{
+  "checks": {
+    "unchanged_cohort_and_four_models": true,
+    "analytic_reference_independent_rational_expression": true,
+    "constant_AP_distinguished_from_random_reference": true,
+    "all_original_AP_reproduced": true,
+    "contrast_arithmetic": true,
+    "three_model_contrast_intervals_include_zero": true,
+    "1000_valid_CIK_cluster_replicates": true,
+    "exhaustive_all_45_N_P_pairs": true,
+    "exhaustive_1013_label_orderings_and_small_errors": true,
+    "all_12_batches_both_rates_all_models": true,
+    "aggregate_three_rules_both_rates_all_models": true,
+    "ceiling_capacity_in_each_batch": true,
+    "same_2695_records_and_93_positives_per_rule": true,
+    "precision_recall_denominators": true,
+    "summary_reports_score_reproduction_and_no_refit": true,
+    "batch_aggregation_original_retrieval_and_matched_capacity": true
+  },
+  "all_pass": true,
+  "scope": "Offline aggregate arithmetic and independent formula check; not independent score/case review or deployment validation"
+}

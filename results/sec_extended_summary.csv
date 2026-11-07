@@ -1,0 +1,6 @@
+feature,requested,match,different,unavailable,source_zero_nonzero_reconstruction
+ratio_ReturnOnAssets,120,100,3,17,0
+ratio_QuickRatio,120,69,0,51,0
+ratio_GrossProfitMargin,120,44,6,70,4
+ratio_OperatingMargin,120,54,17,49,13
+ratio_NetProfitMargin,120,55,22,43,19

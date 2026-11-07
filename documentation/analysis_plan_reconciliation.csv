@@ -1,0 +1,3 @@
+analysis,plan_entry,exact_plan_text,documented_status,scope
+Unseen-company subset,Metrics,annual breakdown and company-disjoint subset,Recorded in retained exploratory design before successful fitting,Internal record; not independently timestamped preregistration
+Partial label-availability sensitivity,Sensitivity,remove positive training observations whose associated AAER is missing or later than 2018-01-01; refit with selected settings,Recorded in retained exploratory design before successful fitting,Refit-only sensitivity; later stage-specific validation audit remains post hoc

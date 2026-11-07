@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If using this research software, please cite the archived version once available."
+title: "Financial Misstatement Reproducibility Audit: Replication Package"
+type: software
+version: 1.0.0
+authors:
+  - family-names: Gong
+    given-names: Weijie

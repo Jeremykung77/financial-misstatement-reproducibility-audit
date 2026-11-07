@@ -1,0 +1,22 @@
+{
+  "checks": {
+    "all_original_cohort_records_accounted_for": true,
+    "all_93_evaluation_positives_unique": true,
+    "crosswalk_preserves_original_positive_IDs_and_source_AAERs": true,
+    "matched_fiscal_keys_are_derived_from_financial_fields": true,
+    "evaluation_match_counts_34_26_31": true,
+    "release_match_rules_are_nested": true,
+    "stage_match_partitions": true,
+    "fourteen_candidate_controls_with_one_in_evaluation": true,
+    "Compass_candidate_is_original_2019Q3_control": true,
+    "twenty_six_cases_and_archive_coverage_records": true,
+    "thirteen_representative_releases_in_archive": true,
+    "Lordstown_narrow_quarters_do_not_match_seven_benchmark_rows": true,
+    "Surgalign_two_rows_preserved_under_alternative_release": true,
+    "three_explicit_manual_case_sources": true,
+    "four_pinned_nonredistributed_source_inputs": true,
+    "no_refit_or_relabeling_declared": true
+  },
+  "all_pass": true,
+  "scope": "Offline internal identities and denominators; no automated case adjudication or population label-error estimate"
+}

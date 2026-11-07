@@ -1,0 +1,22 @@
+{
+  "checks": {
+    "all_93_positive_records_preserved": true,
+    "source_proxy_overlap_26_and_29": true,
+    "all_associations_conservative_superset": true,
+    "two_subsets_four_fixed_models": true,
+    "all_2602_controls_retained": true,
+    "changed_denominators_explicit": true,
+    "constant_AP_matches_subset_fraction": true,
+    "AP_and_retrieval_ranges": true,
+    "1000_valid_cluster_replicates": true,
+    "all_subset_skill_intervals_include_zero": true,
+    "26_official_headers_one_mismatch": true,
+    "FirstEnergy_mismatch_adjudicated": true,
+    "validation_linked_release_unavailable_at_cutoff": true,
+    "refit_availability_matches_prior_analysis": true,
+    "strictly_later_filing_rule": true,
+    "five_distinct_reports_after_documented_concern": true
+  },
+  "all_pass": true,
+  "scope": "Internal consistency and denominator checks; not independent expert verification of first discovery or every event-quarter mapping"
+}

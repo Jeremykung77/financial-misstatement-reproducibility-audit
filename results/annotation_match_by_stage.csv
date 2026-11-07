@@ -1,0 +1,9 @@
+stage,benchmark_positive,records,company_quarter_annotation,exact_representative_AAER_match,any_original_AAER_match,other_AAER_only,no_annotation
+development,0,7457,7,0,0,7,7450
+development,1,342,193,152,176,41,149
+validation,0,2936,5,0,0,5,2931
+validation,1,133,83,44,68,39,50
+gap,0,1034,1,0,0,1,1033
+gap,1,60,35,21,28,14,25
+evaluation,0,2602,1,0,0,1,2601
+evaluation,1,93,34,26,31,8,59
