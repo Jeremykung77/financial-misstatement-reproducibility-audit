@@ -1,6 +1,6 @@
 # Financial Misstatement Reproducibility Audit: Replication Package
 
-Version 1.0.0, prepared 7 November 2026. The repository is public; an archival DOI has not yet been assigned.
+Version 1.0.0, prepared 7 November 2026. The public archive of this version has DOI https://doi.org/10.5281/zenodo.24027492.
 
 This package supports the retrospective audit of financial-misstatement data. It includes original analysis scripts, selected extracts, results, source inventories and verification records. Raw third-party financial tables and upstream source code are not redistributed. Follow the pinned retrieval instructions below and consult `data/ATTRIBUTION.md` for source terms. The included checks are internal to the research workflow; they are not independent expert validation.
 
