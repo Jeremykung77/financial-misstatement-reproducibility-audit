@@ -39,7 +39,7 @@ def main(cache=None):
         checks['raw_cache_payload_hashes']=all((cache/r['file']).exists() and hashlib.sha256((cache/r['file']).read_bytes()).hexdigest()==r['sha256'] for r in manifest)
         checks['raw_entity_identity']=all(json.loads((cache/f"companyfacts_{cik}.json").read_text())['cik']==int(cik) and int(json.loads((cache/f"submissions_{cik}.json").read_text())['cik'])==int(cik) for cik in {r['cik'] for r in selection})
     result={'checks':checks,'all_pass':all(checks.values()),'raw_cache_checked':bool(cache),
-        'scope':'Internal consistency checks within the same AI-assisted workflow; not independent-team replication.'}
+        'scope':'Internal consistency checks within the same research workflow; not independent-team replication.'}
     (ROOT/'results/sec_pilot_verification.json').write_text(json.dumps(result,indent=2))
     print(json.dumps(result,indent=2))
     if not result['all_pass']:raise SystemExit(1)

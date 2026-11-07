@@ -25,6 +25,6 @@ checks={
 }
 selector=json.loads((ROOT/'results/upstream_selector_replay.json').read_text())
 checks['selector_returns_observed_prior_period']=selector['selected_date']=='20191231' and selector['selected_value']==7389407 and selector['target_period']=='20200930'
-result={'checks':checks,'all_pass':all(checks.values()),'scope':'Same AI-assisted workflow, not external replication or population data-error validation'}
+result={'checks':checks,'all_pass':all(checks.values()),'scope':'Same research workflow, not external replication or population data-error validation'}
 (ROOT/'results/measurement_verification.json').write_text(json.dumps(result,indent=2));print(json.dumps(result,indent=2))
 if not result['all_pass']:raise SystemExit(1)

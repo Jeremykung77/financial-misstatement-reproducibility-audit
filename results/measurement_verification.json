@@ -15,5 +15,5 @@
     "selector_returns_observed_prior_period": true
   },
   "all_pass": true,
-  "scope": "Same AI-assisted workflow, not external replication or population data-error validation"
+  "scope": "Same research workflow, not external replication or population data-error validation"
 }

@@ -30,7 +30,7 @@ Only 13 of the 26 representative evaluation releases have files in the supplied 
 
 **Lordstown.** None of its seven benchmark positives matches the narrower table's 2020Q3/Q4 entries. The official order, printed page 10, paragraphs 37-41, separately discusses the then-private operating company's 2019 accounts and the later audit/proxy filings. Therefore the 2019 date alone does not establish that 2019 is outside every accounting issue. Conversely, private operating-company accounts do not establish that earlier standalone DiamondPeak balances are misstated. The four predecessor observations remain an entity-mapping concern requiring account and filing evidence. They are not automatically flipped to negative.
 
-The manually inspected sources and locators appear in annotation_case_verification.csv. These are targeted case checks within the same AI-assisted workflow, not independent expert adjudication of all companies or quarters.
+The manually inspected sources and locators appear in annotation_case_verification.csv. These are targeted case checks within the same research workflow, not independent expert adjudication of all companies or quarters.
 
 ## Reproduce
 

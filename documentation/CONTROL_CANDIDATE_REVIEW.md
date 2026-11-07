@@ -4,7 +4,7 @@
 
 This exploratory follow-up reviews the complete fourteen-record candidate list produced in revision 7, including the thirteen candidates not individually checked at that stage. The candidate universe was fixed before this follow-up; initial document inspection preceded the revision 8 plan. The categories were developed during source inspection and are not preregistered. No additional control search or new predictive evaluation is presented.
 
-The review compares a candidate's recorded period with the scope of its exact linked SEC document and, where necessary, a related original release or complaint. Fifteen distinct official documents were inspected. The source register records the documents and locators; the candidate register preserves every field of the original list, the legal/procedural context, the evidence interpretation and its boundary. This is source inspection within the same AI-assisted workflow, not independent human expert adjudication. Current final dispositions of every underlying proceeding have not been researched.
+The review compares a candidate's recorded period with the scope of its exact linked SEC document and, where necessary, a related original release or complaint. Fifteen distinct official documents were inspected. The source register records the documents and locators; the candidate register preserves every field of the original list, the legal/procedural context, the evidence interpretation and its boundary. This is source inspection within the same research workflow, not independent human expert adjudication. Current final dispositions of every underlying proceeding have not been researched.
 
 ## Findings
 

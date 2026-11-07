@@ -69,7 +69,7 @@ def main():
         'candidate_records': len(review), 'source_documents': len(sources),
         'category_counts': dict(counts), 'stage_counts': dict(stages),
         'no_model_fit_relabel_or_metric_change': True,
-        'scope': 'Mechanical consistency of a source-reading register. Classifications are manual interpretations within the same AI-assisted workflow, not independently validated labels or legal adjudication.'
+        'scope': 'Mechanical consistency of a source-reading register. Classifications are manual interpretations within the same research workflow, not independently validated labels or legal adjudication.'
     }, indent=2)+'\n')
     print(json.dumps({'all_pass': all(checks.values()), 'checks': len(checks), 'category_counts': dict(counts)}, indent=2))
 

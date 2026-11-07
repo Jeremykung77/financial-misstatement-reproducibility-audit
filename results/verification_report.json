@@ -16,5 +16,5 @@
   ],
   "main_test_records": 2695,
   "main_test_positives": 93,
-  "independence_scope": "Separate implementation checks within one AI-assisted workflow; no external research team replication"
+  "independence_scope": "Separate implementation checks within one research workflow; no external research team replication"
 }

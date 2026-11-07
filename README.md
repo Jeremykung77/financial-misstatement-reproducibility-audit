@@ -80,4 +80,4 @@ That optional branch checks all three AP values against the original metrics and
 
 ## Attribution and terms
 
-Original analysis code is supplied under CODE_LICENSE.txt. Third-party data and extracts retain their own terms; see data/ATTRIBUTION.md. OpenAI ChatGPT and Codex assisted substantially with the research workflow, analysis code and writing.
+Original analysis code is supplied under CODE_LICENSE.txt. Third-party data and extracts retain their own terms; see data/ATTRIBUTION.md.
